@@ -1,0 +1,172 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2026/27,Premier League,Arsenal FC,summer,in,Bruno Guimarães,520624,28,Brazil,Central Midfield,CM,70000000.0,Newcastle,England,87500000.0,0
+2026/27,Premier League,Arsenal FC,summer,in,Ezri Konsa,413403,28,England,Centre-Back,CB,45000000.0,Aston Villa,England,59600000.0,0
+2026/27,Premier League,Arsenal FC,summer,in,Piero Hincapié,659813,24,Ecuador,Centre-Back,CB,50000000.0,Leverkusen,Germany,40000000.0,0
+2026/27,Premier League,Arsenal FC,summer,in,Christos Tzolis,451677,24,Greece,Left Winger,LW,40000000.0,Club Brugge,Belgium,40000000.0,0
+2026/27,Premier League,Arsenal FC,summer,in,Illan Meslier,542586,26,France,Goalkeeper,GK,8000000.0,Leeds,England,0.0,0
+2026/27,Premier League,Aston Villa,summer,in,Johan Manzambi,927353,20,Switzerland,Attacking Midfield,AM,50000000.0,Freiburg,Germany,60000000.0,0
+2026/27,Premier League,Aston Villa,summer,in,Nicolas Jackson,776890,25,Senegal,Centre-Forward,CF,40000000.0,Chelsea,England,55500000.0,0
+2026/27,Premier League,Aston Villa,summer,in,Ibrahim Mbaye,1185888,18,Senegal,Right Winger,RW,30000000.0,PSG,France,55000000.0,0
+2026/27,Premier League,Aston Villa,summer,in,João Gomes,735570,25,Brazil,Central Midfield,CM,40000000.0,Wolves,England,40000000.0,0
+2026/27,Premier League,Aston Villa,summer,in,Zion Suzuki,432298,23,Japan,Goalkeeper,GK,30000000.0,Parma,Italy,30000000.0,0
+2026/27,Premier League,Aston Villa,summer,in,Taylor Harwood-Bellis,503977,24,England,Centre-Back,CB,20000000.0,Southampton,England,29200000.0,0
+2026/27,Premier League,Aston Villa,summer,in,Matteo Ruggeri,616631,24,Italy,Left-Back,LB,28000000.0,Atlético,Spain,25000000.0,0
+2026/27,Premier League,Aston Villa,summer,in,Modou Kéba Cissé,1282860,20,Senegal,Centre-Back,CB,6000000.0,LASK,Austria,5500000.0,0
+2026/27,Premier League,Aston Villa,summer,in,Leon Goretzka,153084,31,Germany,Central Midfield,CM,12000000.0,Bayern Munich,Germany,0.0,0
+2026/27,Premier League,Aston Villa,summer,in,Aaron Wan-Bissaka,477758,28,DR Congo,Right-Back,RB,15000000.0,West Ham,England,0.0,1
+2026/27,Premier League,Aston Villa,summer,in,Alejandro Garnacho,811779,22,Argentina,Left Winger,LW,28000000.0,Chelsea,England,0.0,1
+2026/27,Premier League,AFC Bournemouth,summer,in,António Silva,650568,22,Portugal,Centre-Back,CB,25000000.0,Benfica,Portugal,25000000.0,0
+2026/27,Premier League,AFC Bournemouth,summer,in,Álvaro Rodríguez,948275,22,Uruguay,Centre-Forward,CF,10000000.0,Elche CF,Spain,25000000.0,0
+2026/27,Premier League,AFC Bournemouth,summer,in,Álex Jiménez,741257,21,Spain,Right-Back,RB,22000000.0,AC Milan,Italy,18500000.0,0
+2026/27,Premier League,AFC Bournemouth,summer,in,Juanlu Sánchez,676042,22,Spain,Right-Back,RB,10000000.0,Sevilla FC,Spain,11000000.0,0
+2026/27,Premier League,AFC Bournemouth,summer,in,Michele Di Gregorio,301238,29,Italy,Goalkeeper,GK,10000000.0,Juventus,Italy,1300000.0,1
+2026/27,Premier League,Brentford FC,summer,in,Mamadou Sangaré,808348,24,Mali,Central Midfield,CM,40000000.0,Lens,France,48000000.0,0
+2026/27,Premier League,Brentford FC,summer,in,El Hadji Malick Diouf,1111589,21,Senegal,Left-Back,LB,28000000.0,West Ham,England,40800000.0,0
+2026/27,Premier League,Brentford FC,summer,in,Jannik Schuster,915418,20,Austria,Centre-Back,CB,18000000.0,Salzburg,Austria,18000000.0,0
+2026/27,Premier League,Brentford FC,summer,in,Jaidon Anthony,684210,26,England,Left Winger,LW,20000000.0,Burnley,England,17500000.0,0
+2026/27,Premier League,Brentford FC,summer,in,Callum Wilson,123682,34,England,Centre-Forward,CF,4000000.0,West Ham,England,0.0,0
+2026/27,Premier League,Brighton & Hove Albion,summer,in,Luka Vuskovic,892160,19,Croatia,Centre-Back,CB,60000000.0,Tottenham,England,54000000.0,0
+2026/27,Premier League,Brighton & Hove Albion,summer,in,Zadok Yohanna,1421433,19,Nigeria,Right Winger,RW,18000000.0,AIK,Sweden,28000000.0,0
+2026/27,Premier League,Brighton & Hove Albion,summer,in,Pascal Struijk,410708,26,Netherlands,Centre-Back,CB,22000000.0,Leeds,England,23200000.0,0
+2026/27,Premier League,Brighton & Hove Albion,summer,in,Chema Andrés,948279,21,Spain,Defensive Midfield,DM,20000000.0,Stuttgart,Germany,22000000.0,0
+2026/27,Premier League,Brighton & Hove Albion,summer,in,Femi Azeez,703408,25,Nigeria,Right Winger,RW,15000000.0,Millwall,England,14600000.0,0
+2026/27,Premier League,Brighton & Hove Albion,summer,in,Jaouen Hadjam,750903,23,Algeria,Left-Back,LB,7000000.0,Young Boys,Switzerland,13000000.0,0
+2026/27,Premier League,Brighton & Hove Albion,summer,in,Costinha,539252,26,Portugal,Right-Back,RB,7000000.0,Olympiacos,Greece,12700000.0,0
+2026/27,Premier League,Brighton & Hove Albion,summer,in,Michael Svoboda,438961,27,Austria,Centre-Back,CB,3500000.0,Venezia,Italy,5000000.0,0
+2026/27,Premier League,Brighton & Hove Albion,summer,in,Matías Orozco,1420635,18,Colombia,Defensive Midfield,DM,1400000.0,Deportivo Cali,Colombia,4099999.9999999995,0
+2026/27,Premier League,Brighton & Hove Albion,summer,in,Rodrigo Rêgo,984544,21,Portugal,Right Winger,RW,1500000.0,Benfica B,Portugal,3500000.0,0
+2026/27,Premier League,Brighton & Hove Albion,summer,in,Promise David,888785,25,Canada,Centre-Forward,CF,17000000.0,Union SG,Belgium,0.0,1
+2026/27,Premier League,Chelsea FC,summer,in,Morgan Rogers,503743,23,England,Attacking Midfield,AM,90000000.0,Aston Villa,England,138000000.0,0
+2026/27,Premier League,Chelsea FC,summer,in,Maxence Lacroix,434224,26,France,Centre-Back,CB,50000000.0,Crystal Palace,England,60700000.0,0
+2026/27,Premier League,Chelsea FC,summer,in,Marco Palestra,895937,21,Italy,Right-Back,RB,35000000.0,Atalanta,Italy,57000000.0,0
+2026/27,Premier League,Chelsea FC,summer,in,Geovany Quenda,1138758,19,Portugal,Right Winger,RW,42000000.0,Sporting,Portugal,50780000.0,0
+2026/27,Premier League,Chelsea FC,summer,in,Valentín Barco,849410,22,Argentina,Central Midfield,CM,40000000.0,R. Strasbourg,France,40000000.0,0
+2026/27,Premier League,Chelsea FC,summer,in,Emmanuel Emegha,559328,23,Netherlands,Centre-Forward,CF,25000000.0,R. Strasbourg,France,25000000.0,0
+2026/27,Premier League,Chelsea FC,summer,in,Pep Chavarría,596122,28,Spain,Left-Back,LB,10000000.0,Rayo Vallecano,Spain,19000000.0,0
+2026/27,Premier League,Chelsea FC,summer,in,Emiliano Martínez,111873,33,Argentina,Goalkeeper,GK,12000000.0,Aston Villa,England,8750000.0,0
+2026/27,Premier League,Chelsea FC,summer,in,Danny Welbeck,67063,35,England,Centre-Forward,CF,3000000.0,Brighton,England,5850000.0,0
+2026/27,Premier League,Chelsea FC,summer,in,Dastan Satpaev,1179146,18,Kazakhstan,Centre-Forward,CF,3500000.0,Kairat Almaty,Kazakhstan,2400000.0,0
+2026/27,Premier League,Chelsea FC,summer,in,Jordan Henderson,61651,36,England,Central Midfield,CM,1200000.0,Brentford,England,0.0,0
+2026/27,Premier League,Coventry City,summer,in,Caleb Yirenkyi,1240763,20,Ghana,Central Midfield,CM,18000000.0,Nordsjaelland,Denmark,27000000.0,0
+2026/27,Premier League,Coventry City,summer,in,Carl Rushworth,646353,25,England,Goalkeeper,GK,16000000.0,Brighton,England,25700000.0,0
+2026/27,Premier League,Coventry City,summer,in,Sidiki Chérif,986288,19,France,Centre-Forward,CF,18000000.0,Fenerbahçe,Türkiye,24500000.0,0
+2026/27,Premier League,Coventry City,summer,in,Loum Tchaouna,607226,22,France,Right Winger,RW,13000000.0,Burnley,England,23000000.0,0
+2026/27,Premier League,Coventry City,summer,in,Aurèle Amenda,635645,22,Switzerland,Centre-Back,CB,10000000.0,Frankfurt,Germany,18000000.0,0
+2026/27,Premier League,Coventry City,summer,in,Yann Gboho,463613,25,Cote d'Ivoire,Left Winger,LW,18000000.0,Toulouse,France,12000000.0,0
+2026/27,Premier League,Coventry City,summer,in,Taiwo Awoniyi,295313,29,Nigeria,Centre-Forward,CF,8000000.0,Nott'm Forest,England,10500000.0,0
+2026/27,Premier League,Coventry City,summer,in,Frank Onyeka,421637,28,Nigeria,Central Midfield,CM,8000000.0,Brentford,England,7000000.0,0
+2026/27,Premier League,Coventry City,summer,in,Gustavo Hamer,322985,29,Netherlands,Central Midfield,CM,14000000.0,Sheff Utd,England,7000000.0,0
+2026/27,Premier League,Coventry City,summer,in,Ethan Pinnock,442248,33,Jamaica,Centre-Back,CB,3000000.0,Brentford,England,5850000.0,0
+2026/27,Premier League,Coventry City,summer,in,Dan Bentley,136401,33,England,Goalkeeper,GK,800000.0,Wolves,England,0.0,0
+2026/27,Premier League,Coventry City,summer,in,Stephen Mfuni,1049020,18,England,Centre-Back,CB,1500000.0,Man City U21,England,0.0,1
+2026/27,Premier League,Crystal Palace,summer,in,Dwight McNeil,584769,26,England,Left Winger,LW,18000000.0,Everton,England,25800000.0,0
+2026/27,Premier League,Crystal Palace,summer,in,Anan Khalaili,945021,21,Israel,Right-Back,RB,23000000.0,Union SG,Belgium,24500000.0,0
+2026/27,Premier League,Crystal Palace,summer,in,Quinten Timber,420213,25,Netherlands,Central Midfield,CM,25000000.0,Marseille,France,20000000.0,0
+2026/27,Premier League,Crystal Palace,summer,in,Zavier Gozo,1007383,19,United States,Right Winger,RW,6000000.0,Salt Lake,United States,13000000.0,0
+2026/27,Premier League,Crystal Palace,summer,in,Darío Osorio,881116,22,Chile,Right Winger,RW,15000000.0,Midtjylland,Denmark,2000000.0,1
+2026/27,Premier League,Crystal Palace,summer,in,Óscar Mingueza,331505,27,Spain,Right-Back,RB,18000000.0,Celta,Spain,0.0,0
+2026/27,Premier League,Crystal Palace,summer,in,Takehiro Tomiyasu,331560,27,Japan,Centre-Back,CB,5000000.0,Ajax,Netherlands,0.0,0
+2026/27,Premier League,Crystal Palace,summer,in,Ben Chilwell,316125,29,England,Left-Back,LB,10000000.0,R. Strasbourg,France,0.0,0
+2026/27,Premier League,Crystal Palace,summer,in,Honest Ahanor,1077175,18,Italy,Centre-Back,CB,30000000.0,Atalanta,Italy,0.0,1
+2026/27,Premier League,Crystal Palace,summer,in,Axel Disasi,386047,28,France,Centre-Back,CB,15000000.0,Chelsea,England,0.0,1
+2026/27,Premier League,Everton FC,summer,in,Brennan Johnson,470607,25,Wales,Right Winger,RW,30000000.0,Crystal Palace,England,25800000.0,0
+2026/27,Premier League,Everton FC,summer,in,Merlin Röhl,608832,23,Germany,Central Midfield,CM,16000000.0,Freiburg,Germany,25000000.0,0
+2026/27,Premier League,Everton FC,summer,in,Tyrique George,936874,20,England,Left Winger,LW,20000000.0,Chelsea,England,21000000.0,0
+2026/27,Premier League,Everton FC,summer,in,Hayden Hackney,538216,24,England,Defensive Midfield,DM,32000000.0,Middlesbrough,England,19300000.0,0
+2026/27,Premier League,Everton FC,summer,in,Christian Nørgaard,148367,32,Denmark,Defensive Midfield,DM,5000000.0,Arsenal,England,8150000.0,0
+2026/27,Premier League,Everton FC,summer,in,Ainsley Maitland-Niles,285845,29,England,Right-Back,RB,10000000.0,Lyon,France,3500000.0,0
+2026/27,Premier League,Everton FC,summer,in,Jack Grealish,203460,30,England,Left Winger,LW,20000000.0,Man City,England,0.0,1
+2026/27,Premier League,Fulham FC,summer,in,Gonzalo García,935230,22,Spain,Centre-Forward,CF,30000000.0,Real Madrid,Spain,40000000.0,0
+2026/27,Premier League,Fulham FC,summer,in,Shea Charles,747951,22,Northern Ireland,Defensive Midfield,DM,15000000.0,Southampton,England,30400000.0,0
+2026/27,Premier League,Fulham FC,summer,in,David Affengruber,452483,25,Austria,Centre-Back,CB,20000000.0,Elche CF,Spain,12000000.0,0
+2026/27,Premier League,Fulham FC,summer,in,César Palacios,948272,21,Spain,Attacking Midfield,AM,7500000.0,Real Madrid,Spain,10000000.0,0
+2026/27,Premier League,Fulham FC,summer,in,Jonah Kusi-Asare,1069512,18,Sweden,Centre-Forward,CF,3000000.0,Bayern Munich,Germany,6000000.0,0
+2026/27,Premier League,Fulham FC,summer,in,Manuel Ángel,646824,22,Spain,Central Midfield,CM,5000000.0,RM Castilla,Spain,4000000.0,0
+2026/27,Premier League,Fulham FC,summer,in,Hugo Larsson,931838,22,Sweden,Central Midfield,CM,28000000.0,Frankfurt,Germany,0.0,1
+2026/27,Premier League,Hull City,summer,in,Nobel Mendy,1034853,21,Senegal,Centre-Back,CB,7500000.0,Rayo Vallecano,Spain,23400000.0,0
+2026/27,Premier League,Hull City,summer,in,Konstantinos Tzolakis,554389,23,Greece,Goalkeeper,GK,18000000.0,Olympiacos,Greece,23300000.0,0
+2026/27,Premier League,Hull City,summer,in,Ilyas Ansah,1035765,21,Germany,Centre-Forward,CF,12000000.0,Union Berlin,Germany,17000000.0,0
+2026/27,Premier League,Hull City,summer,in,Mohamed-Ali Cho,670847,22,France,Right Winger,RW,15000000.0,Nice,France,15150000.0,0
+2026/27,Premier League,Hull City,summer,in,Tim Iroegbunam,696589,23,England,Central Midfield,CM,18000000.0,Everton,England,15150000.0,0
+2026/27,Premier League,Hull City,summer,in,Christos Mouzakitis,964426,19,Greece,Central Midfield,CM,25000000.0,Olympiacos,Greece,15000000.0,0
+2026/27,Premier League,Hull City,summer,in,Lucas Herrington,1279984,18,Australia,Centre-Back,CB,8000000.0,Colorado,United States,14800000.0,0
+2026/27,Premier League,Hull City,summer,in,Brooke Norton-Cuffy,728733,22,England,Right-Back,RB,15000000.0,Genoa,Italy,14000000.0,0
+2026/27,Premier League,Hull City,summer,in,Jens Hjertø-Dahl,923535,20,Norway,Central Midfield,CM,10000000.0,Tromsø IL,Norway,9500000.0,0
+2026/27,Premier League,Hull City,summer,in,Sorba Thomas,475416,27,Wales,Left Winger,LW,14000000.0,Stoke City,England,8750000.0,0
+2026/27,Premier League,Hull City,summer,in,Joe Gelhardt,503980,24,England,Centre-Forward,CF,14000000.0,Leeds,England,7600000.0,0
+2026/27,Premier League,Hull City,summer,in,Lucas Gourna-Douath,620313,23,France,Defensive Midfield,DM,6000000.0,Salzburg,Austria,4000000.0,0
+2026/27,Premier League,Hull City,summer,in,Jack Butland,128899,33,England,Goalkeeper,GK,1500000.0,Rangers,Scotland,3500000.0,0
+2026/27,Premier League,Hull City,summer,in,Elliot Stroud,687622,24,Sweden,Left Winger,LW,8000000.0,Mjällby AIF,Sweden,2500000.0,0
+2026/27,Premier League,Hull City,summer,in,Robinio Vaz,1131161,19,France,Centre-Forward,CF,18000000.0,Roma,Italy,2000000.0,1
+2026/27,Premier League,Hull City,summer,in,Hidemasa Morita,524315,31,Japan,Central Midfield,CM,8000000.0,Sporting,Portugal,0.0,0
+2026/27,Premier League,Hull City,summer,in,Matt Targett,250478,30,England,Left-Back,LB,3000000.0,Newcastle,England,0.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Julio Enciso,660867,22,Paraguay,Attacking Midfield,AM,25000000.0,R. Strasbourg,France,30500000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Emersonn,743599,21,Brazil,Centre-Forward,CF,8000000.0,Toulouse,France,28000000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Abdul Fatawu,864121,22,Ghana,Right Winger,RW,20000000.0,Leicester,England,23450000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Exequiel Palacios,401578,27,Argentina,Central Midfield,CM,25000000.0,Leverkusen,Germany,22500000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Abdoul Ouattara,991487,20,Cote d'Ivoire,Right-Back,RB,15000000.0,R. Strasbourg,France,20000000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Zian Flemming,411537,28,Netherlands,Centre-Forward,CF,12000000.0,Burnley,England,19800000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Florentino,357162,26,Portugal,Defensive Midfield,DM,16000000.0,Burnley,England,18700000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Saša Lukić,245056,29,Serbia,Central Midfield,CM,10000000.0,Fulham,England,10500000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Kjell Scherpen,463527,26,Netherlands,Goalkeeper,GK,8000000.0,Union SG,Belgium,10000000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Issa Diop,272622,29,Morocco,Centre-Back,CB,8000000.0,Fulham,England,10000000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Daizen Maeda,420931,28,Japan,Left Winger,LW,13000000.0,Celtic,Scotland,9400000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Chuba Akpom,197642,30,England,Centre-Forward,CF,3500000.0,Ajax,Netherlands,9300000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Cédric Kipré,364827,29,Cote d'Ivoire,Centre-Back,CB,2000000.0,Stade Reims,France,4500000.0,0
+2026/27,Premier League,Ipswich Town,summer,in,Kayne van Oevelen,790669,22,Netherlands,Goalkeeper,GK,2000000.0,FC Volendam,Netherlands,4000000.0,0
+2026/27,Premier League,Leeds United,summer,in,James Trafford,566799,23,England,Goalkeeper,GK,25000000.0,Man City,England,46700000.0,0
+2026/27,Premier League,Leeds United,summer,in,Tarik Muharemović,679423,23,Bosnia-Herzegovina,Centre-Back,CB,25000000.0,Sassuolo,Italy,37000000.0,0
+2026/27,Premier League,Leeds United,summer,in,Nico Elvedi,192635,29,Switzerland,Centre-Back,CB,8000000.0,Mönchengladbach,Germany,8000000.0,0
+2026/27,Premier League,Leeds United,summer,in,Michael Zetterer,196813,31,Germany,Goalkeeper,GK,4000000.0,Frankfurt,Germany,5000000.0,0
+2026/27,Premier League,Leeds United,summer,in,Jean-Mattéo Bahoya,939964,21,France,Left Winger,LW,25000000.0,Frankfurt,Germany,2000000.0,1
+2026/27,Premier League,Leeds United,summer,in,Melvin Bard,532775,25,France,Left-Back,LB,10000000.0,Nice,France,1000000.0,1
+2026/27,Premier League,Leeds United,summer,in,Harry Wilson,279455,29,Wales,Right Winger,RW,25000000.0,Fulham,England,0.0,0
+2026/27,Premier League,Liverpool FC,summer,in,Bradley Barcola,708265,23,France,Left Winger,LW,90000000.0,PSG,France,125000000.0,0
+2026/27,Premier League,Liverpool FC,summer,in,Jérémy Jacquet,1004301,20,France,Centre-Back,CB,55000000.0,Rennes,France,63600000.0,0
+2026/27,Premier League,Liverpool FC,summer,in,Víctor Muñoz,935231,22,Spain,Left Winger,LW,30000000.0,CA Osasuna,Spain,40000000.0,0
+2026/27,Premier League,Liverpool FC,summer,in,Lucca Brughmans,1105547,18,Belgium,Goalkeeper,GK,4000000.0,Genk,Belgium,33000000.0,0
+2026/27,Premier League,Liverpool FC,summer,in,Djylian N'Guessan,1200419,18,France,Centre-Forward,CF,5000000.0,Saint-Étienne,France,5000000.0,0
+2026/27,Premier League,Liverpool FC,summer,in,Ifeanyi Ndukwe,1167696,18,Austria,Centre-Back,CB,3000000.0,Austria Vienna,Austria,3000000.0,0
+2026/27,Premier League,Liverpool FC,summer,in,Ronald Araujo,480267,27,Uruguay,Centre-Back,CB,20000000.0,Barcelona,Spain,0.0,1
+2026/27,Premier League,Manchester City,summer,in,Enzo Fernández,648195,25,Argentina,Central Midfield,CM,100000000.0,Chelsea,England,145000000.0,0
+2026/27,Premier League,Manchester City,summer,in,Elliot Anderson,567576,23,England,Defensive Midfield,DM,110000000.0,Nott'm Forest,England,135000000.0,0
+2026/27,Premier League,Manchester City,summer,in,Ayyoub Bouaddi,1097139,18,Morocco,Defensive Midfield,DM,80000000.0,Lille,France,95000000.0,0
+2026/27,Premier League,Manchester City,summer,in,Iliman Ndiaye,623570,26,Senegal,Left Winger,LW,55000000.0,Everton,England,70000000.0,0
+2026/27,Premier League,Manchester City,summer,in,Allan,1082631,22,Brazil,Right Winger,RW,20000000.0,Palmeiras,Brazil,37500000.0,0
+2026/27,Premier League,Manchester City,summer,in,Mathys Detourbet,1171981,19,France,Left Winger,LW,15000000.0,Troyes,France,25000000.0,0
+2026/27,Premier League,Manchester City,summer,in,Jeremy Monga,1245948,17,England,Left Winger,LW,15000000.0,Leicester,England,11700000.0,0
+2026/27,Premier League,Manchester City,summer,in,Pierce Charles,861600,20,Northern Ireland,Goalkeeper,GK,900000.0,Sheff Wed,England,3500000.0,0
+2026/27,Premier League,Manchester City,summer,in,Gerónimo Rulli,229604,34,Argentina,Goalkeeper,GK,6000000.0,Marseille,France,3500000.0,0
+2026/27,Premier League,Manchester United,summer,in,Carlos Baleba,973085,22,Cameroon,Defensive Midfield,DM,55000000.0,Brighton,England,75900000.0,0
+2026/27,Premier League,Manchester United,summer,in,Andrey Santos,743600,22,Brazil,Defensive Midfield,DM,40000000.0,Chelsea,England,56300000.0,0
+2026/27,Premier League,Manchester United,summer,in,Youri Tielemans,249565,29,Belgium,Central Midfield,CM,30000000.0,Aston Villa,England,41000000.0,0
+2026/27,Premier League,Manchester United,summer,in,Karl Darlow,99397,35,Wales,Goalkeeper,GK,200000.0,Leeds,England,0.0,0
+2026/27,Premier League,Newcastle United,summer,in,Matias Fernandez-Pardo,724129,21,Belgium,Centre-Forward,CF,35000000.0,Lille,France,60000000.0,0
+2026/27,Premier League,Newcastle United,summer,in,Nico González,466805,24,Spain,Defensive Midfield,DM,40000000.0,Man City,England,56000000.0,0
+2026/27,Premier League,Newcastle United,summer,in,Bazoumana Touré,1067904,20,Cote d'Ivoire,Left Winger,LW,40000000.0,Hoffenheim,Germany,50000000.0,0
+2026/27,Premier League,Newcastle United,summer,in,Amar Dedic,519184,24,Bosnia-Herzegovina,Right-Back,RB,20000000.0,Benfica,Portugal,35900000.0,0
+2026/27,Premier League,Newcastle United,summer,in,Aladji Bamba,975347,20,France,Defensive Midfield,DM,18000000.0,Monaco,France,35500000.0,0
+2026/27,Premier League,Newcastle United,summer,in,Lukas Hornicek,629773,24,Czech Republic,Goalkeeper,GK,18000000.0,Braga,Portugal,30600000.0,0
+2026/27,Premier League,Newcastle United,summer,in,Sean Steur,1111063,18,Netherlands,Central Midfield,CM,7000000.0,Ajax,Netherlands,23500000.0,0
+2026/27,Premier League,Newcastle United,summer,in,Ewen Jaouen,923757,20,France,Goalkeeper,GK,12000000.0,Stade Reims,France,21500000.0,0
+2026/27,Premier League,Nottingham Forest,summer,in,Liam Delap,610849,23,England,Centre-Forward,CF,28000000.0,Chelsea,England,52500000.0,0
+2026/27,Premier League,Nottingham Forest,summer,in,Ousmane Diomande,974982,22,Cote d'Ivoire,Centre-Back,CB,42000000.0,Sporting,Portugal,40000000.0,0
+2026/27,Premier League,Nottingham Forest,summer,in,Daniel Muñoz,493003,30,Colombia,Right-Back,RB,22000000.0,Crystal Palace,England,25700000.0,0
+2026/27,Premier League,Nottingham Forest,summer,in,Gustavo Sá,982575,21,Portugal,Attacking Midfield,AM,25000000.0,Famalicão,Portugal,20000000.0,0
+2026/27,Premier League,Nottingham Forest,summer,in,Xaver Schlager,223979,28,Austria,Central Midfield,CM,10000000.0,Leipzig,Germany,0.0,0
+2026/27,Premier League,Nottingham Forest,summer,in,Steven Benda,381469,27,Germany,Goalkeeper,GK,1000000.0,Fulham,England,0.0,0
+2026/27,Premier League,Sunderland AFC,summer,in,Malick Fofana,743386,21,Belgium,Left Winger,LW,30000000.0,Lyon,France,30000000.0,0
+2026/27,Premier League,Sunderland AFC,summer,in,Dayann Méthalie,1191444,20,France,Left-Back,LB,18000000.0,Toulouse,France,28000000.0,0
+2026/27,Premier League,Sunderland AFC,summer,in,Jules Ahoka,1401779,20,DR Congo,Defensive Midfield,DM,300000.0,Royal Antwerp,Belgium,10000000.0,0
+2026/27,Premier League,Sunderland AFC,summer,in,Kevin Danso,263236,27,Austria,Centre-Back,CB,20000000.0,Tottenham,England,2900000.0,1
+2026/27,Premier League,Sunderland AFC,summer,in,Thomas Meunier,100986,34,Belgium,Right-Back,RB,1500000.0,Lille,France,0.0,0
+2026/27,Premier League,Tottenham Hotspur,summer,in,Sandro Tonali,397033,26,Italy,Defensive Midfield,DM,80000000.0,Newcastle,England,108000000.0,0
+2026/27,Premier League,Tottenham Hotspur,summer,in,Mateus Fernandes,880245,21,Portugal,Central Midfield,CM,50000000.0,West Ham,England,99000000.0,0
+2026/27,Premier League,Tottenham Hotspur,summer,in,Sávio,743591,22,Brazil,Left Winger,LW,35000000.0,Man City,England,87700000.0,0
+2026/27,Premier League,Tottenham Hotspur,summer,in,Jan Paul van Hecke,576314,26,Netherlands,Centre-Back,CB,45000000.0,Brighton,England,60000000.0,0
+2026/27,Premier League,Tottenham Hotspur,summer,in,Tosin Adarabioyo,258878,28,England,Centre-Back,CB,16000000.0,Chelsea,England,11650000.0,0
+2026/27,Premier League,Tottenham Hotspur,summer,in,Marcos Senesi,469781,29,Argentina,Centre-Back,CB,25000000.0,Bournemouth,England,0.0,0
+2026/27,Premier League,Tottenham Hotspur,summer,in,Martin Dúbravka,74960,37,Slovakia,Goalkeeper,GK,500000.0,Burnley,England,0.0,0
+2026/27,Premier League,Tottenham Hotspur,summer,in,Andrew Robertson,234803,32,Scotland,Left-Back,LB,7000000.0,Liverpool,England,0.0,0
+2026/27,Premier League,Tottenham Hotspur,summer,in,Omar Marmoush,445939,27,Egypt,Centre-Forward,CF,50000000.0,Man City,England,0.0,1
+2026/27,Premier League,Tottenham Hotspur,summer,in,Mykhaylo Mudryk,537860,25,Ukraine,Left Winger,LW,,Chelsea,England,0.0,1

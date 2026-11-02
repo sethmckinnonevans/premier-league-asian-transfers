@@ -1,0 +1,365 @@
+id,name,team_name,team_id,position,positions_detailed,weight,height,dob,preferred_foot,country,contract_until,market_value,market_value_currency
+805012,Hwang Mun-ki,Gangwon FC,34220,D,"['DR', 'MC']",70.0,176.0,1996-12-08T00:00:00+00:00,Right,South Korea,,500000.0,EUR
+940057,Song Bum-keun,Jeonbuk Hyundai Motors,6908,G,['GK'],88.0,194.0,1997-10-15T00:00:00+00:00,Right,South Korea,,965000.0,EUR
+1026134,Ju-hyeon Lee,Jeonbuk Hyundai Motors,6908,G,['GK'],,188.0,1998-12-06T00:00:00+00:00,Right,South Korea,,165000.0,EUR
+1103520,Gi-Hyuk Lee,Gangwon FC,34220,D,"['DC', 'DL']",,184.0,2000-07-07T00:00:00+00:00,Left,South Korea,2027-12-31,825000.0,EUR
+2044373,Park Man-Ho,Gimcheon Sangmu FC,7647,G,['GK'],,182.0,2004-02-28T00:00:00+00:00,,South Korea,2027-06-14,97000.0,EUR
+1103514,Kim Bong-Soo,Daejeon Hana Citizen,7645,M,"['MC', 'DM', 'DC']",,183.0,1999-12-26T00:00:00+00:00,Right,South Korea,,960000.0,EUR
+1154613,Wi-je Cho,Jeonbuk Hyundai Motors,6908,D,['DC'],,189.0,2001-08-25T00:00:00+00:00,Right,South Korea,,535000.0,EUR
+1009476,Jin-gyu Kim,Jeonbuk Hyundai Motors,6908,M,"['MC', 'AM', 'DM']",68.0,177.0,1997-02-24T00:00:00+00:00,Right,South Korea,2026-12-31,1200000.0,EUR
+932316,Dong-gyeong Lee,Ulsan HD,7653,M,"['ST', 'AM']",68.0,175.0,1997-09-20T00:00:00+00:00,Left,South Korea,,1600000.0,EUR
+1109512,Oberdan Alionço,Jeonbuk Hyundai Motors,6908,M,"['MC', 'DM']",69.0,175.0,1995-07-30T00:00:00+00:00,Right,Brazil,,1100000.0,EUR
+826023,Hrvoje Babec,FC Seoul,7646,M,"['MC', 'DM']",,185.0,1999-07-28T00:00:00+00:00,Right,Croatia,2028-12-31,940000.0,EUR
+96999,Tobias Figueiredo,Jeju SK,7649,D,['DC'],84.0,188.0,1994-02-02T00:00:00+00:00,Right,Portugal,,635000.0,EUR
+160843,Kim Jin-su,FC Seoul,7646,D,['DL'],67.0,177.0,1992-06-13T00:00:00+00:00,Left,South Korea,,310000.0,EUR
+845177,Matheus Oliveira,FC Anyang,32675,M,"['ST', 'AM']",69.0,173.0,1997-09-28T00:00:00+00:00,Left,Brazil,,840000.0,EUR
+880110,Wanderson,Pohang Steelers,7650,D,['DL'],60.0,173.0,1989-03-31T00:00:00+00:00,Left,Brazil,2026-12-31,135000.0,EUR
+872090,Lee Chang-geun,Daejeon Hana Citizen,7645,G,['GK'],75.0,186.0,1993-08-30T00:00:00+00:00,Right,South Korea,,495000.0,EUR
+973866,Galego,Bucheon FC 1995,92539,F,['LW'],,176.0,1997-04-04T00:00:00+00:00,Left,Brazil,,400000.0,EUR
+891613,Eraldo Cinari,Jeju SK,7649,F,"['ST', 'RW']",,181.0,1996-10-11T00:00:00+00:00,Left,Albania,2027-12-31,630000.0,EUR
+870717,Marcão,Ulsan HD,7653,F,['ST'],78.0,196.0,1994-06-17T00:00:00+00:00,Both,Brazil,,805000.0,EUR
+150397,Darijan Bojanić,Ulsan HD,7653,M,"['MC', 'DM']",70.0,184.0,1994-12-28T00:00:00+00:00,Right,Sweden,2027-12-31,725000.0,EUR
+2208287,Jung Seung-hyeon,Ulsan HD,7653,D,['DC'],89.0,188.0,1994-04-03T00:00:00+00:00,Right,South Korea,2028-12-31,910000.0,EUR
+109099,Stefan Mugoša,Incheon United,7648,F,['ST'],80.0,189.0,1992-02-26T00:00:00+00:00,Right,Montenegro,,360000.0,EUR
+888906,Yazan Al-Arab,FC Seoul,7646,D,['DC'],80.0,186.0,1996-01-31T00:00:00+00:00,Left,Jordan,,1000000.0,EUR
+1012784,Jong-beom Baek,FC Seoul,7646,G,['GK'],,190.0,2001-01-21T00:00:00+00:00,Right,South Korea,,380000.0,EUR
+537286,Myeong-jae Lee,Daejeon Hana Citizen,7645,D,['DL'],68.0,180.0,1993-11-04T00:00:00+00:00,Left,South Korea,2028-12-31,375000.0,EUR
+329667,Dong-jun Kim,Jeju SK,7649,G,['GK'],74.0,188.0,1994-12-19T00:00:00+00:00,,South Korea,,470000.0,EUR
+941361,Juan Ibiza,Incheon United,7648,D,['DC'],,187.0,1995-08-17T00:00:00+00:00,Left,Spain,2026-12-31,390000.0,EUR
+788312,Juan Antonio Ros,FC Seoul,7646,D,['DC'],,186.0,1996-03-15T00:00:00+00:00,Right,Spain,,820000.0,EUR
+1386148,Park Cheong-hyo,Gangwon FC,34220,G,['GK'],77.0,190.0,1990-02-13T00:00:00+00:00,Right,South Korea,,120000.0,EUR
+828805,Yeong-jae Lee,Jeonbuk Hyundai Motors,6908,M,"['MC', 'DM']",60.0,174.0,1994-09-13T00:00:00+00:00,Both,South Korea,,490000.0,EUR
+1019266,Yago Cariello,Ulsan HD,7653,F,['ST'],83.0,185.0,1999-07-27T00:00:00+00:00,Left,Brazil,,845000.0,EUR
+1869661,Dong-hwa Kim,Gwangju FC,48912,G,['GK'],,185.0,2003-05-07T00:00:00+00:00,,South Korea,,97000.0,EUR
+982309,Tae-jun Park,Gimcheon Sangmu FC,7647,M,['MC'],62.0,175.0,1999-01-19T00:00:00+00:00,Right,South Korea,,480000.0,EUR
+846832,Adriel D'Avila Ba Loua,Gwangju FC,48912,M,"['RW', 'MR']",,170.0,1996-07-25T00:00:00+00:00,Left,Côte d'Ivoire,,775000.0,EUR
+793855,Tae-heui Lee,FC Anyang,32675,D,"['DR', 'MR']",66.0,181.0,1992-06-16T00:00:00+00:00,Right,South Korea,,160000.0,EUR
+1025867,Yeong-bin Kim,Jeonbuk Hyundai Motors,6908,D,['DC'],,184.0,1991-09-20T00:00:00+00:00,Right,South Korea,,375000.0,EUR
+974177,Seung-Won Jeong,FC Seoul,7646,M,"['RW', 'MR', 'MC']",68.0,173.0,1997-02-27T00:00:00+00:00,Right,South Korea,,535000.0,EUR
+1459583,Jo Seong-Kwon,Daejeon Hana Citizen,7645,D,"['DC', 'DR']",70.0,182.0,2001-02-24T00:00:00+00:00,Right,South Korea,,,
+887433,Marko Tuci,Gangwon FC,34220,D,['DC'],,190.0,1998-12-04T00:00:00+00:00,Right,Montenegro,,670000.0,EUR
+1090643,Jorge Teixeira,Pohang Steelers,7650,F,"['ST', 'LW']",,190.0,1999-06-21T00:00:00+00:00,Right,Brazil,,310000.0,EUR
+901270,John Iredale,Gwangju FC,48912,F,['ST'],,188.0,1999-08-01T00:00:00+00:00,Right,Australia,,430000.0,EUR
+828802,Chang-min Lee,Jeju SK,7649,M,"['MC', 'DM']",72.0,178.0,1994-01-20T00:00:00+00:00,Right,South Korea,,410000.0,EUR
+931538,Anderson Oliveira,FC Seoul,7646,M,['LW'],64.0,169.0,1998-07-16T00:00:00+00:00,Right,Brazil,,630000.0,EUR
+822536,Seung-Woo Lee,Jeonbuk Hyundai Motors,6908,M,"['LW', 'AM']",65.0,173.0,1998-01-06T00:00:00+00:00,Right,South Korea,,465000.0,EUR
+1025764,In-jae Hwang,Pohang Steelers,7650,G,['GK'],73.0,187.0,1994-04-22T00:00:00+00:00,,South Korea,,485000.0,EUR
+921270,Lee Tae Hui,Incheon United,7648,G,['GK'],,188.0,1995-04-26T00:00:00+00:00,Right,South Korea,,210000.0,EUR
+899902,Matheus Aiás,Jeju SK,7649,F,['ST'],,175.0,1996-12-30T00:00:00+00:00,Both,Brazil,2027-12-31,420000.0,EUR
+1018671,Breno Herculano,FC Anyang,32675,F,['ST'],,189.0,1999-02-16T00:00:00+00:00,Right,Brazil,,875000.0,EUR
+1465382,Jung-taek Lee,Gimcheon Sangmu FC,7647,D,"['DC', 'DR', 'DL']",81.0,184.0,1998-05-23T00:00:00+00:00,Right,South Korea,2026-12-31,390000.0,EUR
+982307,Choi Jun,FC Seoul,7646,D,['DR'],72.0,177.0,1999-04-17T00:00:00+00:00,Right,South Korea,,720000.0,EUR
+387874,Masatoshi Ishida,Daejeon Hana Citizen,7645,F,"['ST', 'AM']",69.0,178.0,1995-05-04T00:00:00+00:00,Right,Japan,,515000.0,EUR
+1025916,Dae-won Kim,Gangwon FC,34220,M,"['ML', 'LW']",65.0,172.0,1997-02-10T00:00:00+00:00,Right,South Korea,,870000.0,EUR
+1002482,Jae-hyeok Oh,Gimcheon Sangmu FC,7647,M,"['MC', 'DM']",60.0,170.0,2002-06-21T00:00:00+00:00,,South Korea,2028-02-02,340000.0,EUR
+1391965,Jae-min Seo,Incheon United,7648,M,"['MC', 'DM']",73.0,178.0,2003-09-16T00:00:00+00:00,Right,South Korea,,380000.0,EUR
+309432,Gu Sung-yun,FC Seoul,7646,G,['GK'],82.0,198.0,1994-06-27T00:00:00+00:00,Right,South Korea,,515000.0,EUR
+307514,Moon Seon-min,FC Seoul,7646,F,['LW'],66.0,172.0,1992-06-09T00:00:00+00:00,Right,South Korea,,380000.0,EUR
+1459641,Gun-hee Kim,Incheon United,7648,D,['DC'],84.0,192.0,2002-09-16T00:00:00+00:00,Right,South Korea,,440000.0,EUR
+986044,Gytis Paulauskas,Jeonbuk Hyundai Motors,6908,F,['ST'],,191.0,1999-09-27T00:00:00+00:00,Right,Lithuania,2028-12-31,370000.0,EUR
+982306,Won-Sang Um,Daejeon Hana Citizen,7645,F,['RW'],63.0,171.0,1999-01-06T00:00:00+00:00,Both,South Korea,,740000.0,EUR
+1945250,Ho-jin Kim,Pohang Steelers,7650,D,['DC'],80.0,183.0,2005-09-29T00:00:00+00:00,Right,South Korea,,210000.0,EUR
+1188039,Italo,Jeju SK,7649,M,"['MC', 'DM']",,190.0,1997-08-03T00:00:00+00:00,Right,Brazil,,385000.0,EUR
+1025769,Chang-rae Ha,Daejeon Hana Citizen,7645,D,['DC'],82.0,188.0,1994-10-16T00:00:00+00:00,Right,South Korea,,630000.0,EUR
+1464039,Myeong-kwan Seo,Ulsan HD,7653,D,"['DC', 'DR', 'DL']",77.0,186.0,2002-11-23T00:00:00+00:00,Right,South Korea,2028-04-11,340000.0,EUR
+991315,Kyu-hyun Park,Daejeon Hana Citizen,7645,D,['DL'],,181.0,2001-04-14T00:00:00+00:00,Left,South Korea,2026-12-31,385000.0,EUR
+1103522,Lee Kang-Hyeon,Gimcheon Sangmu FC,7647,M,"['MC', 'DM']",,181.0,1998-07-31T00:00:00+00:00,Right,South Korea,2027-07-04,310000.0,EUR
+1185300,Park Cheol-woo,Gimcheon Sangmu FC,7647,D,"['DL', 'ML']",,176.0,1997-10-21T00:00:00+00:00,Left,South Korea,,360000.0,EUR
+109232,Kim Young-gwon,Ulsan HD,7653,D,['DC'],74.0,184.0,1990-02-27T00:00:00+00:00,Left,South Korea,,260000.0,EUR
+1639417,Min-seo Moon,Gwangju FC,48912,M,['MC'],74.0,182.0,2004-02-18T00:00:00+00:00,Right,South Korea,2026-12-31,265000.0,EUR
+1831799,Dong-jin Kim,Pohang Steelers,7650,M,"['MC', 'DM']",,181.0,2003-07-30T00:00:00+00:00,Right,South Korea,,315000.0,EUR
+38642,Sung-Yueng Ki,Pohang Steelers,7650,M,"['MC', 'DM']",79.0,186.0,1989-01-24T00:00:00+00:00,Both,South Korea,,340000.0,EUR
+1546812,Italo,Jeonbuk Hyundai Motors,6908,F,['LW'],,191.0,2002-10-13T00:00:00+00:00,Right,Brazil,2027-06-30,950000.0,EUR
+905451,Victor Bobsin,Daejeon Hana Citizen,7645,M,"['MC', 'DM']",,184.0,2000-01-12T00:00:00+00:00,Left,Brazil,,515000.0,EUR
+1025763,Yool Heo,Ulsan HD,7653,F,['ST'],87.0,193.0,2001-04-12T00:00:00+00:00,Left,South Korea,2028-02-02,425000.0,EUR
+1026414,Abdelkarim Chaouche,Gangwon FC,34220,D,"['DL', 'DC']",,180.0,1996-10-21T00:00:00+00:00,Left,Algeria,,325000.0,EUR
+1201037,Kang Sang-Yun,Jeonbuk Hyundai Motors,6908,M,"['AM', 'MC']",64.0,171.0,2004-05-31T00:00:00+00:00,Right,South Korea,,640000.0,EUR
+851350,Patryk Klimala,FC Seoul,7646,F,['ST'],76.0,183.0,1998-08-05T00:00:00+00:00,Right,Poland,,570000.0,EUR
+1484361,Kang Joon-hyuk,Gangwon FC,34220,D,"['DR', 'DL']",,177.0,1999-10-20T00:00:00+00:00,Right,South Korea,,410000.0,EUR
+832401,Kim Dong-hyeon,Gangwon FC,34220,M,"['MC', 'DM']",72.0,182.0,1997-06-11T00:00:00+00:00,Right,South Korea,,700000.0,EUR
+1127257,Ye-Sung Kim,Pohang Steelers,7650,D,"['DL', 'DR']",63.0,172.0,1996-10-21T00:00:00+00:00,Right,South Korea,2028-12-31,290000.0,EUR
+802392,Se-jong Ju,Gwangju FC,48912,M,"['MC', 'DM']",70.0,174.0,1990-10-30T00:00:00+00:00,Right,South Korea,,195000.0,EUR
+2444744,Kwon Ki-Min,Jeju SK,7649,D,['DC'],,185.0,2005-10-27T00:00:00+00:00,Right,South Korea,,135000.0,EUR
+886358,Julien Celestine,Jeju SK,7649,D,['DC'],,191.0,1997-07-24T00:00:00+00:00,Left,France,,360000.0,EUR
+1014278,Seong-ung Maeng,Jeonbuk Hyundai Motors,6908,M,"['MC', 'DM']",,183.0,1998-02-04T00:00:00+00:00,Right,South Korea,,515000.0,EUR
+1025782,Min-kyu Song,FC Seoul,7646,M,['LW'],72.0,179.0,1999-09-12T00:00:00+00:00,Right,South Korea,2028-06-30,1000000.0,EUR
+978413,Jung-hoon Kim,FC Anyang,32675,G,['GK'],82.0,188.0,2001-04-20T00:00:00+00:00,Right,South Korea,2028-12-31,415000.0,EUR
+825502,Hyeon-woo Jo,Ulsan HD,7653,G,['GK'],75.0,189.0,1991-09-25T00:00:00+00:00,Right,South Korea,,630000.0,EUR
+792383,Kyung-won Kwon,FC Anyang,32675,D,['DC'],69.0,188.0,1992-01-31T00:00:00+00:00,Left,South Korea,,380000.0,EUR
+549976,Kyoung-Rok Choi,Gwangju FC,48912,M,"['MC', 'ST']",70.0,176.0,1995-03-15T00:00:00+00:00,Both,South Korea,2026-12-31,425000.0,EUR
+988248,Kyu-seong Lee,Ulsan HD,7653,M,"['MC', 'DM']",,173.0,1994-05-10T00:00:00+00:00,Right,South Korea,2027-12-31,470000.0,EUR
+2058291,Ji-hun Kim,FC Anyang,32675,D,['DC'],81.0,187.0,2004-10-14T00:00:00+00:00,,South Korea,,110000.0,EUR
+964306,You-Hyeon Lee,Gangwon FC,34220,M,"['MC', 'DR']",72.0,179.0,1997-02-08T00:00:00+00:00,Right,South Korea,,410000.0,EUR
+792256,Ju-yong Lee,Incheon United,7648,D,['DL'],76.0,180.0,1992-09-26T00:00:00+00:00,Left,South Korea,,195000.0,EUR
+1102531,Lee Ho-jae,Pohang Steelers,7650,F,['ST'],,192.0,2000-10-14T00:00:00+00:00,Right,South Korea,,925000.0,EUR
+871913,Geon-ung Kim,Jeju SK,7649,D,"['MC', 'DC', 'DM']",81.0,185.0,1997-08-29T00:00:00+00:00,,South Korea,2027-06-30,420000.0,EUR
+872096,Woon Jeong,Jeju SK,7649,D,"['DC', 'DL']",76.0,180.0,1989-06-30T00:00:00+00:00,Left,South Korea,,160000.0,EUR
+1046525,Byeon Jun-soo,Gimcheon Sangmu FC,7647,D,['DC'],85.0,189.0,2001-11-30T00:00:00+00:00,Right,South Korea,2027-07-18,440000.0,EUR
+1103529,Song Jun-Seok,Gangwon FC,34220,D,"['DL', 'ML']",,174.0,2001-02-06T00:00:00+00:00,Left,South Korea,2028-02-02,440000.0,EUR
+1639364,Jo In-Jung,Jeju SK,7649,D,['DL'],,184.0,2005-11-08T00:00:00+00:00,Left,South Korea,,49000.0,EUR
+1479278,Kim Ha-Jun,Jeonbuk Hyundai Motors,6908,D,['DC'],,188.0,2002-07-17T00:00:00+00:00,Left,South Korea,2028-12-31,250000.0,EUR
+863242,Lee Han-do,FC Seoul,7646,D,['DC'],80.0,185.0,1994-03-16T00:00:00+00:00,Right,South Korea,,245000.0,EUR
+874173,Tiago Orobó,Jeonbuk Hyundai Motors,6908,F,['ST'],75.0,188.0,1993-10-28T00:00:00+00:00,Both,Brazil,,620000.0,EUR
+1012804,Jae-won Shin,Bucheon FC 1995,92539,D,['DR'],,183.0,1998-09-16T00:00:00+00:00,Right,South Korea,,290000.0,EUR
+1383249,Seung Won Lee,Gangwon FC,34220,M,['MC'],,174.0,2003-03-06T00:00:00+00:00,Right,South Korea,,365000.0,EUR
+992703,Airton,FC Anyang,32675,F,"['RW', 'LW']",,178.0,1999-02-02T00:00:00+00:00,Right,Brazil,,390000.0,EUR
+998817,Chang-mu Shin,Gwangju FC,48912,M,['ST'],67.0,170.0,1992-09-17T00:00:00+00:00,Left,South Korea,2026-12-31,95000.0,EUR
+920010,Gustav Ludwigson,Daejeon Hana Citizen,7645,M,"['LW', 'ML']",75.0,182.0,1993-10-20T00:00:00+00:00,Left,Sweden,,730000.0,EUR
+1000195,Yun-seong Kang,Daejeon Hana Citizen,7645,D,['DR'],,174.0,1997-07-01T00:00:00+00:00,Right,South Korea,2027-12-31,365000.0,EUR
+1806836,Young-whan Kim,Incheon United,7648,M,['MC'],,180.0,2002-03-23T00:00:00+00:00,,South Korea,2026-12-31,155000.0,EUR
+954830,Hyeon-uh Kim,Gimcheon Sangmu FC,7647,D,['DC'],,183.0,1999-03-07T00:00:00+00:00,Both,South Korea,2026-12-04,360000.0,EUR
+354792,Miłosz Trojak,Ulsan HD,7653,D,"['DC', 'DR']",81.0,191.0,1994-05-05T00:00:00+00:00,Right,Poland,2027-06-30,335000.0,EUR
+1130178,Emerson Ramon,Jeju SK,7649,M,['LW'],,178.0,2000-11-24T00:00:00+00:00,Right,Brazil,,930000.0,EUR
+331463,Myung Joo Lee,Incheon United,7648,M,"['MC', 'DM']",72.0,176.0,1990-04-24T00:00:00+00:00,Right,South Korea,,260000.0,EUR
+974168,Jae-hyeon Go,Gimcheon Sangmu FC,7647,M,"['MR', 'RW']",67.0,180.0,1999-03-05T00:00:00+00:00,Right,South Korea,,540000.0,EUR
+1019300,Hyun-taek Cho,Ulsan HD,7653,D,"['DL', 'ML']",65.0,180.0,2001-08-02T00:00:00+00:00,Left,South Korea,,620000.0,EUR
+958647,Park Ji-soo,Jeonbuk Hyundai Motors,6908,D,['DC'],77.0,184.0,1994-06-13T00:00:00+00:00,Right,South Korea,2028-12-31,410000.0,EUR
+1025797,Dong-heon Kim,Incheon United,7648,G,['GK'],,186.0,1997-03-03T00:00:00+00:00,Right,South Korea,,440000.0,EUR
+1026149,Mo Jae-hyeon,Gangwon FC,34220,M,['MR'],,184.0,1996-09-24T00:00:00+00:00,Right,South Korea,2027-12-31,680000.0,EUR
+1018871,Dodô,Jeonbuk Hyundai Motors,6908,M,['AM'],,170.0,2001-06-15T00:00:00+00:00,Right,Brazil,,1000000.0,EUR
+1175312,Kyeong-hyeon Min,Gimcheon Sangmu FC,7647,M,['ML'],,173.0,2001-12-16T00:00:00+00:00,Right,South Korea,2026-12-01,340000.0,EUR
+1026227,Jae-hee Jeong,Daejeon Hana Citizen,7645,M,"['RW', 'MR']",,174.0,1994-04-28T00:00:00+00:00,,South Korea,,225000.0,EUR
+1104650,Jeong-won Eo,Pohang Steelers,7650,D,"['DL', 'DR', 'ML']",68.0,175.0,1999-07-08T00:00:00+00:00,,South Korea,2028-04-11,360000.0,EUR
+1028623,Min-woo Seo,Gangwon FC,34220,M,"['MC', 'DM']",75.0,184.0,1998-03-12T00:00:00+00:00,Right,South Korea,,620000.0,EUR
+1025792,Soo-il Park,FC Seoul,7646,D,"['DR', 'DL']",68.0,178.0,1996-02-22T00:00:00+00:00,Right,South Korea,,430000.0,EUR
+160841,Chang-woo Rim,Jeju SK,7649,D,"['DR', 'DC']",80.0,183.0,1992-02-13T00:00:00+00:00,Right,South Korea,,270000.0,EUR
+1466882,Lee Min-Hyeok,Incheon United,7648,M,['MC'],,179.0,2002-01-19T00:00:00+00:00,Left,South Korea,,,
+982304,Ho-jin Jeong,Bucheon FC 1995,92539,D,"['DC', 'DR']",,182.0,1999-08-06T00:00:00+00:00,Right,South Korea,2026-12-31,240000.0,EUR
+38639,Chung-yong Lee,Incheon United,7648,M,['RW'],75.0,180.0,1988-07-02T00:00:00+00:00,Right,South Korea,,235000.0,EUR
+1387011,Seung-ho Kim,Pohang Steelers,7650,M,['MC'],,172.0,1998-10-01T00:00:00+00:00,Left,South Korea,2028-12-31,275000.0,EUR
+1407257,Hwang Do-yoon,FC Seoul,7646,M,"['MC', 'DM']",,175.0,2003-04-09T00:00:00+00:00,Right,South Korea,,350000.0,EUR
+1018176,Diogo Oliveira,Daejeon Hana Citizen,7645,F,['ST'],,194.0,1996-12-04T00:00:00+00:00,Right,Brazil,2026-12-31,760000.0,EUR
+847958,Morgan Ferrier,Incheon United,7648,F,['ST'],80.0,185.0,1994-11-15T00:00:00+00:00,Right,Guyana,,205000.0,EUR
+840663,Jesse Sekidika,Gangwon FC,34220,M,"['LW', 'ML', 'RW']",,174.0,1996-07-14T00:00:00+00:00,Right,Nigeria,,720000.0,EUR
+794773,Park Chan-Yong,Pohang Steelers,7650,D,['DC'],,186.0,1996-01-27T00:00:00+00:00,Right,South Korea,,740000.0,EUR
+1002488,Sung-wook Hong,Bucheon FC 1995,92539,D,"['DC', 'DL', 'DR']",,185.0,2002-09-17T00:00:00+00:00,Right,South Korea,,315000.0,EUR
+849782,Jae-woo Kim,Jeju SK,7649,D,['DC'],84.0,187.0,1998-02-06T00:00:00+00:00,Both,South Korea,,310000.0,EUR
+2040163,Seung-bin Jung,Gangwon FC,34220,D,,90.0,197.0,2006-07-03T00:00:00+00:00,,South Korea,,24000.0,EUR
+978453,Min-seo Park,Gimcheon Sangmu FC,7647,D,['DL'],68.0,175.0,2000-09-15T00:00:00+00:00,Left,South Korea,2027-06-14,320000.0,EUR
+1184745,Hee-dong Roh,Gwangju FC,48912,G,['GK'],,194.0,2002-06-03T00:00:00+00:00,Right,South Korea,,115000.0,EUR
+1184798,Seung-won Yeo,Incheon United,7648,D,['DL'],,179.0,2000-05-05T00:00:00+00:00,Left,South Korea,2026-12-31,160000.0,EUR
+828808,In-su Yu,Jeju SK,7649,D,"['ML', 'DR']",69.0,178.0,1994-12-28T00:00:00+00:00,Right,South Korea,,310000.0,EUR
+1026177,Hyeong-keun Kim,Bucheon FC 1995,92539,G,['GK'],,188.0,1994-01-06T00:00:00+00:00,,South Korea,,245000.0,EUR
+889703,Lee Seung-mo,FC Seoul,7646,M,"['MC', 'DM']",70.0,185.0,1998-03-30T00:00:00+00:00,Right,South Korea,2026-12-31,410000.0,EUR
+1019719,Seong-hun Park,FC Seoul,7646,D,['DC'],,183.0,2003-01-27T00:00:00+00:00,Right,South Korea,,210000.0,EUR
+838150,Thomas Oude Kotte,Ulsan HD,7653,M,"['DC', 'MC']",80.0,184.0,1996-03-20T00:00:00+00:00,Left,Netherlands,,450000.0,EUR
+794318,João Gamboa,Jeonbuk Hyundai Motors,6908,M,"['DM', 'MC']",80.0,187.0,1996-08-31T00:00:00+00:00,Right,Portugal,,415000.0,EUR
+1000233,Yun-sang Hong,Gimcheon Sangmu FC,7647,F,"['ML', 'LW']",,177.0,2002-03-19T00:00:00+00:00,,South Korea,2027-05-16,570000.0,EUR
+1002496,Ryun-sung Kim,Jeju SK,7649,D,['DL'],70.0,179.0,2002-06-04T00:00:00+00:00,Right,South Korea,2027-12-31,340000.0,EUR
+1026080,Deok-geun Lim,Gimcheon Sangmu FC,7647,M,"['MC', 'DC']",,183.0,2000-02-25T00:00:00+00:00,,South Korea,2026-12-01,260000.0,EUR
+889691,Cho Young-wook,FC Seoul,7646,F,['ST'],65.0,178.0,1999-02-05T00:00:00+00:00,Right,South Korea,,420000.0,EUR
+1104495,Kim Lee-Seok,Gimcheon Sangmu FC,7647,M,"['MC', 'DM']",74.0,180.0,1998-06-19T00:00:00+00:00,Right,South Korea,,285000.0,EUR
+1010606,Sang-jun Kim,Bucheon FC 1995,92539,M,"['MC', 'DM']",,185.0,2001-10-01T00:00:00+00:00,Right,South Korea,,190000.0,EUR
+976202,Min-deok Kim,Daejeon Hana Citizen,7645,D,"['DC', 'DR']",78.0,183.0,1996-07-08T00:00:00+00:00,Right,South Korea,,485000.0,EUR
+1035937,Soon-min Lee,Daejeon Hana Citizen,7645,M,"['MC', 'DM']",,179.0,1994-05-22T00:00:00+00:00,Right,South Korea,2027-12-31,465000.0,EUR
+1887784,Thiaguinho Santos,Bucheon FC 1995,92539,M,['MR'],,168.0,2000-01-04T00:00:00+00:00,Left,Brazil,,290000.0,EUR
+1027862,Min-gyu Jang,Jeju SK,7649,M,['DC'],79.0,185.0,1999-03-06T00:00:00+00:00,Right,South Korea,2028-04-11,420000.0,EUR
+972502,Min-kyu Joo,Daejeon Hana Citizen,7645,F,['ST'],79.0,183.0,1990-04-13T00:00:00+00:00,Both,South Korea,2026-12-31,650000.0,EUR
+2444690,Min-jae Park,Jeju SK,7649,D,['DR'],,174.0,2005-11-30T00:00:00+00:00,Right,South Korea,,79000.0,EUR
+224064,Jung-hyun Kim,FC Anyang,32675,M,"['MC', 'DM']",77.0,185.0,1993-06-01T00:00:00+00:00,Right,South Korea,2026-12-31,225000.0,EUR
+1014036,Abdallah Khalaihal,Gangwon FC,34220,F,['ST'],,185.0,2001-01-11T00:00:00+00:00,Right,Israel,,185000.0,EUR
+845658,York Rafael,FC Anyang,32675,M,"['DL', 'MC', 'ML']",,177.0,1999-05-17T00:00:00+00:00,,Rwanda,,170000.0,EUR
+1500818,Sung-min Hong,Pohang Steelers,7650,G,['GK'],,183.0,2006-09-29T00:00:00+00:00,,South Korea,,77000.0,EUR
+1464035,Hyeon-yeob kim,Bucheon FC 1995,92539,G,['GK'],82.0,187.0,2001-08-22T00:00:00+00:00,Right,South Korea,,145000.0,EUR
+1010602,Tae-hwan Kim,Gimcheon Sangmu FC,7647,D,"['DR', 'MR']",,177.0,2000-03-25T00:00:00+00:00,Both,South Korea,2026-12-31,380000.0,EUR
+1474468,Choi Seok-Hyun,Ulsan HD,7653,D,"['DR', 'DC']",,181.0,2003-01-13T00:00:00+00:00,Right,South Korea,,310000.0,EUR
+973291,Vitor Gabriel,Bucheon FC 1995,92539,F,['ST'],,187.0,2000-01-20T00:00:00+00:00,Right,Brazil,,390000.0,EUR
+793882,Yeong-chan Kim,FC Anyang,32675,D,['DC'],80.0,189.0,1993-09-04T00:00:00+00:00,Right,South Korea,,190000.0,EUR
+832475,Jong-Woo Kim,Bucheon FC 1995,92539,M,"['MC', 'DM']",65.0,180.0,1993-10-01T00:00:00+00:00,Right,South Korea,,220000.0,EUR
+1026213,Ki-jong Won,Pohang Steelers,7650,F,['ST'],,178.0,1996-01-06T00:00:00+00:00,Right,South Korea,,300000.0,EUR
+988245,Lee Hyeon-sik,Daejeon Hana Citizen,7645,M,['MC'],,175.0,1996-03-21T00:00:00+00:00,Both,South Korea,,420000.0,EUR
+1639361,Choi Seung-Gu,Incheon United,7648,D,['DR'],,175.0,2005-09-28T00:00:00+00:00,Right,South Korea,,260000.0,EUR
+980424,Cheon Seong-hoon,FC Seoul,7646,F,['ST'],,190.0,2000-09-21T00:00:00+00:00,Right,South Korea,,165000.0,EUR
+1639432,Shin Min-Ha,Gangwon FC,34220,D,['DC'],76.0,187.0,2005-09-15T00:00:00+00:00,Right,South Korea,,645000.0,EUR
+928095,Kazuki Takahashi,Bucheon FC 1995,92539,M,"['MC', 'DM']",,177.0,1996-10-06T00:00:00+00:00,Both,Japan,2026-12-31,315000.0,EUR
+981416,Bruno Mota,Jeonbuk Hyundai Motors,6908,F,['ST'],87.0,193.0,1996-02-10T00:00:00+00:00,Left,Brazil,2026-12-31,600000.0,EUR
+1026035,Chang-jun Park,Jeju SK,7649,F,['LW'],,176.0,1996-12-23T00:00:00+00:00,Right,South Korea,2028-12-31,335000.0,EUR
+73122,Tae Hee Nam,Jeju SK,7649,M,"['AM', 'ST', 'MC']",73.0,173.0,1991-07-03T00:00:00+00:00,Right,South Korea,2027-06-30,410000.0,EUR
+2053146,Park Kyung-sub,Incheon United,7648,D,['DC'],,188.0,2004-07-02T00:00:00+00:00,,South Korea,,340000.0,EUR
+1101402,Kang Yun-Gu,Gangwon FC,34220,M,['RW'],,177.0,2002-04-08T00:00:00+00:00,Left,South Korea,,145000.0,EUR
+1175303,Kim Shin-jin,Jeju SK,7649,F,['ST'],,186.0,2001-07-13T00:00:00+00:00,Right,South Korea,,135000.0,EUR
+387146,Ivan Jukić,FC Anyang,32675,M,"['LW', 'ML']",69.0,176.0,1996-06-21T00:00:00+00:00,Right,Bosnia & Herzegovina,,195000.0,EUR
+822542,Jong-gyu Yoon,Ulsan HD,7653,D,['DR'],66.0,173.0,1998-03-20T00:00:00+00:00,Right,South Korea,,365000.0,EUR
+1025825,Chang-yong Lee,FC Anyang,32675,D,['DC'],76.0,180.0,1990-08-27T00:00:00+00:00,Right,South Korea,,215000.0,EUR
+1017010,Juninho Rocha,Pohang Steelers,7650,F,"['RW', 'MR']",,170.0,1997-11-05T00:00:00+00:00,Left,Brazil,,315000.0,EUR
+1025770,Min-kwang Jeon,Pohang Steelers,7650,D,['DC'],73.0,186.0,1993-01-17T00:00:00+00:00,Right,South Korea,,340000.0,EUR
+2034127,Hyeon-seo Han,Pohang Steelers,7650,D,['DC'],76.0,186.0,2004-01-02T00:00:00+00:00,Left,South Korea,,275000.0,EUR
+1026118,Jin-su Seo,Daejeon Hana Citizen,7645,F,"['ST', 'LW']",,183.0,2000-10-18T00:00:00+00:00,Right,South Korea,,285000.0,EUR
+1459474,Se-jin Park,Gimcheon Sangmu FC,7647,F,['MC'],67.0,171.0,2004-03-19T00:00:00+00:00,Right,South Korea,,360000.0,EUR
+1019718,Min-jun Kang,Pohang Steelers,7650,D,['DR'],,170.0,2003-04-08T00:00:00+00:00,Right,South Korea,,265000.0,EUR
+937112,Jhon Montaño,Bucheon FC 1995,92539,F,['ST'],77.0,183.0,1997-05-07T00:00:00+00:00,,Colombia,2027-06-30,340000.0,EUR
+921263,Kim Moon-hwan,Daejeon Hana Citizen,7645,D,['DR'],,173.0,1995-08-01T00:00:00+00:00,Right,South Korea,2027-12-31,695000.0,EUR
+1805813,Un Kim,FC Anyang,32675,F,['ST'],78.0,180.0,1994-11-15T00:00:00+00:00,Right,South Korea,,165000.0,EUR
+1026048,Tae-hyeon Kim,Jeonbuk Hyundai Motors,6908,D,"['DL', 'DR']",,187.0,1996-12-19T00:00:00+00:00,Right,South Korea,,775000.0,EUR
+1048226,Teun van Grunsven,Gwangju FC,48912,D,['DC'],,194.0,1999-10-30T00:00:00+00:00,Left,Netherlands,2029-06-30,465000.0,EUR
+872092,Dong-kyu Baek,Bucheon FC 1995,92539,D,"['DC', 'DL']",,186.0,1991-05-30T00:00:00+00:00,,South Korea,,180000.0,EUR
+1028626,Si-hoo Hong,Gimcheon Sangmu FC,7647,F,"['ST', 'RW']",65.0,175.0,2001-01-08T00:00:00+00:00,Right,South Korea,2027-05-16,145000.0,EUR
+326021,Chang-Hoon Kwon,Jeju SK,7649,M,['RW'],69.0,174.0,1994-06-30T00:00:00+00:00,Left,South Korea,2028-06-30,320000.0,EUR
+1920770,Joo-chan Kim,Gimcheon Sangmu FC,7647,M,"['RW', 'ML']",71.0,178.0,2004-03-29T00:00:00+00:00,Left,South Korea,,315000.0,EUR
+1026103,Dong-ryul Lee,Incheon United,7648,M,"['RW', 'ST']",,177.0,2000-06-09T00:00:00+00:00,Left,South Korea,,240000.0,EUR
+974234,Jun-beom Kim,Daejeon Hana Citizen,7645,M,"['MC', 'AM']",66.0,177.0,1998-01-14T00:00:00+00:00,Right,South Korea,,320000.0,EUR
+974257,Hu-sung Oh,Incheon United,7648,M,['ST'],64.0,173.0,1999-08-25T00:00:00+00:00,Right,South Korea,,195000.0,EUR
+560130,Leandro Ribeiro,Incheon United,7648,F,"['ST', 'LW']",76.0,178.0,1995-01-13T00:00:00+00:00,Right,Brazil,,320000.0,EUR
+1459728,Son Seung-beom,Pohang Steelers,7650,F,,,180.0,2004-05-04T00:00:00+00:00,Right,South Korea,2026-12-31,77000.0,EUR
+1634035,Hong Jae-seok,FC Anyang,32675,D,['DC'],85.0,188.0,2003-07-03T00:00:00+00:00,,South Korea,2026-12-31,77000.0,EUR
+1184684,Kim Jong-Seok,Gwangju FC,48912,M,"['MC', 'DM']",70.0,178.0,1994-12-11T00:00:00+00:00,,South Korea,,205000.0,EUR
+302690,Danny Bakker,FC Anyang,32675,D,"['DC', 'DL']",71.0,178.0,1995-01-16T00:00:00+00:00,Left,Netherlands,,490000.0,EUR
+1026088,Seong-jun Jo,Bucheon FC 1995,92539,F,['RW'],,176.0,1990-11-27T00:00:00+00:00,Right,South Korea,,93000.0,EUR
+155404,Da-sol Kim,FC Anyang,32675,G,['GK'],,188.0,1989-01-04T00:00:00+00:00,Right,South Korea,2026-12-31,96000.0,EUR
+1189275,Kim Jong-Min,Bucheon FC 1995,92539,D,"['DC', 'DL']",,191.0,2001-04-13T00:00:00+00:00,,South Korea,,78000.0,EUR
+2048738,Kim Jun-Ha,Jeju SK,7649,M,['MR'],71.0,175.0,2005-12-02T00:00:00+00:00,Right,South Korea,2028-02-02,360000.0,EUR
+832473,Kim Gun-hee,Gangwon FC,34220,F,['ST'],,184.0,1995-02-22T00:00:00+00:00,Left,South Korea,,240000.0,EUR
+851089,Anton Kryvotsiuk,Daejeon Hana Citizen,7645,D,['DC'],,186.0,1998-08-20T00:00:00+00:00,Left,Azerbaijan,2027-12-31,670000.0,EUR
+1191311,Jakob Tranziska,Pohang Steelers,7650,F,['ST'],,190.0,2001-06-24T00:00:00+00:00,Right,Germany,,155000.0,EUR
+831115,Kang Sang-woo,Ulsan HD,7653,D,['DL'],60.0,175.0,1993-10-07T00:00:00+00:00,Right,South Korea,2026-12-31,635000.0,EUR
+2084710,Ye-geon Kim,Jeonbuk Hyundai Motors,6908,M,['MC'],,167.0,2008-08-07T00:00:00+00:00,Left,South Korea,2031-06-30,545000.0,EUR
+1025779,Young-jun Goh,Gangwon FC,34220,F,"['AM', 'ST']",69.0,172.0,2001-07-09T00:00:00+00:00,Right,South Korea,2026-12-31,490000.0,EUR
+1167731,Lee Jin-hyun,Ulsan HD,7653,M,"['MC', 'AM']",62.0,173.0,1997-08-26T00:00:00+00:00,Left,South Korea,2027-12-31,300000.0,EUR
+921624,Patrick William,Bucheon FC 1995,92539,D,"['DC', 'DL']",78.0,186.0,1997-06-03T00:00:00+00:00,Right,Brazil,,575000.0,EUR
+2444030,Kim Jae-Hyun,FC Anyang,32675,F,['DL'],72.0,182.0,2004-08-18T00:00:00+00:00,Left,South Korea,,48000.0,EUR
+1175300,Yu Je-ho,Gwangju FC,48912,M,['MC'],,178.0,2000-08-15T00:00:00+00:00,Right,South Korea,,205000.0,EUR
+605426,Leonardo Ruiz,FC Seoul,7646,F,['ST'],76.0,185.0,1996-04-18T00:00:00+00:00,Right,Colombia,,425000.0,EUR
+1632975,Hwang Seo-woong,Pohang Steelers,7650,M,['AM'],,177.0,2005-01-22T00:00:00+00:00,Right,South Korea,,240000.0,EUR
+993373,Dong-jin Kim,FC Anyang,32675,D,"['DL', 'ML']",74.0,177.0,1992-12-28T00:00:00+00:00,Left,South Korea,,245000.0,EUR
+1009475,Dong-jun Lee,Jeonbuk Hyundai Motors,6908,M,"['RW', 'MR']",65.0,173.0,1997-02-01T00:00:00+00:00,Right,South Korea,,515000.0,EUR
+927667,Erick Farias,Ulsan HD,7653,F,"['ST', 'LW']",,172.0,1997-01-03T00:00:00+00:00,Right,Brazil,,1200000.0,EUR
+1798859,Kang Seong-Yun,Gangwon FC,34220,D,['DC'],82.0,185.0,2003-03-03T00:00:00+00:00,Left,South Korea,,,
+1818932,Suk-Hwan Jang,Gwangju FC,48912,D,['DC'],70.0,180.0,2004-10-11T00:00:00+00:00,Left,South Korea,2026-12-31,81000.0,EUR
+1009482,Ho-yeong Park,Gangwon FC,34220,D,['DC'],,194.0,1999-04-07T00:00:00+00:00,,South Korea,,170000.0,EUR
+931014,Won-jae Park,Gwangju FC,48912,D,['MR'],,175.0,1994-05-07T00:00:00+00:00,Right,South Korea,,155000.0,EUR
+1463309,Jang Si-young,Ulsan HD,7653,M,['LW'],,174.0,2002-03-31T00:00:00+00:00,Right,South Korea,2027-12-31,190000.0,EUR
+2048741,Byung-wook Choi,Jeju SK,7649,M,['MR'],69.0,177.0,2005-04-11T00:00:00+00:00,Left,South Korea,,160000.0,EUR
+1477393,Su-bin Park,Jeju SK,7649,M,"['MC', 'DM']",74.0,181.0,1999-09-22T00:00:00+00:00,Left,South Korea,,240000.0,EUR
+124800,Bit-garam Yoon,Bucheon FC 1995,92539,M,"['MC', 'DM']",71.0,178.0,1990-05-07T00:00:00+00:00,Right,South Korea,2027-12-31,340000.0,EUR
+786110,Yong-jik Ri,Gwangju FC,48912,M,"['DC', 'MC']",75.0,187.0,1991-02-08T00:00:00+00:00,Right,North Korea,,73000.0,EUR
+1102844,Park Jin-Seong,Gimcheon Sangmu FC,7647,D,"['DL', 'ML']",,178.0,2001-05-15T00:00:00+00:00,,South Korea,2026-12-01,140000.0,EUR
+1459636,Choi Woo-jin,Jeonbuk Hyundai Motors,6908,D,['DL'],,175.0,2004-07-18T00:00:00+00:00,Left,South Korea,,375000.0,EUR
+358028,Tae-hwan Kim,Jeonbuk Hyundai Motors,6908,D,['DR'],,177.0,1989-07-24T00:00:00+00:00,Right,South Korea,2026-12-31,405000.0,EUR
+149786,Iker Undabarrena,Incheon United,7648,M,"['MC', 'DM']",75.0,180.0,1995-05-18T00:00:00+00:00,Right,Spain,,415000.0,EUR
+94781,Hólmbert Aron Friðjónsson,Gwangju FC,48912,F,['ST'],85.0,195.0,1993-04-19T00:00:00+00:00,Left,Iceland,,240000.0,EUR
+1477415,Kento Nishiya,Pohang Steelers,7650,M,"['MC', 'DM']",,174.0,1999-11-07T00:00:00+00:00,Left,Japan,2026-12-31,485000.0,EUR
+1028624,Kang Ji-hun,FC Anyang,32675,D,"['DR', 'MR']",64.0,178.0,1997-01-06T00:00:00+00:00,,South Korea,,195000.0,EUR
+1134231,Kim Myung-Sun,Incheon United,7648,D,"['DR', 'MR']",70.0,177.0,2000-07-17T00:00:00+00:00,Right,South Korea,2027-12-31,325000.0,EUR
+1025900,Jin-yong Lee,FC Anyang,32675,M,"['MC', 'DM']",73.0,180.0,2001-05-01T00:00:00+00:00,Right,South Korea,2028-12-31,360000.0,EUR
+1026073,Seung-seob Kim,Jeonbuk Hyundai Motors,6908,M,"['ML', 'LW']",,177.0,1996-11-01T00:00:00+00:00,Right,South Korea,,515000.0,EUR
+1465368,Do-Hyun Kim,Gangwon FC,34220,F,['RW'],,177.0,2004-05-12T00:00:00+00:00,Right,South Korea,,140000.0,EUR
+892177,Ka-ram Han,FC Anyang,32675,M,['MC'],,177.0,1998-02-09T00:00:00+00:00,Right,South Korea,2026-12-31,180000.0,EUR
+865399,Rodrigo Bassani,Bucheon FC 1995,92539,F,['RW'],,177.0,1997-10-17T00:00:00+00:00,Left,Brazil,2026-12-31,535000.0,EUR
+1019288,Min-jun Kim,Bucheon FC 1995,92539,F,['RW'],,183.0,2000-02-12T00:00:00+00:00,,South Korea,,270000.0,EUR
+1015158,Soo-bin Lee,Gimcheon Sangmu FC,7647,M,"['MC', 'DM']",65.0,180.0,2000-05-07T00:00:00+00:00,Right,South Korea,,330000.0,EUR
+1025774,Sang-min Shim,Ulsan HD,7653,D,['DL'],70.0,172.0,1993-05-21T00:00:00+00:00,Right,South Korea,2026-12-31,320000.0,EUR
+160859,Sang-ki Min,Gwangju FC,48912,D,['DC'],79.0,184.0,1991-08-27T00:00:00+00:00,Left,South Korea,,210000.0,EUR
+2478189,Kim Yong-hyuk,Gwangju FC,48912,D,['DC'],76.0,186.0,2007-01-11T00:00:00+00:00,,South Korea,,165000.0,EUR
+1116668,João Pedro,Gwangju FC,48912,D,['DL'],73.0,184.0,2003-03-14T00:00:00+00:00,Left,Brazil,,320000.0,EUR
+1025889,Tae-hyeon Ahn,Bucheon FC 1995,92539,D,"['DR', 'ML']",,174.0,1993-03-01T00:00:00+00:00,Right,South Korea,,210000.0,EUR
+1019290,Han-min Jung,Pohang Steelers,7650,F,['LW'],68.0,182.0,2001-01-08T00:00:00+00:00,Right,South Korea,2028-12-31,95000.0,EUR
+1639412,Kim Jae-Min,Jeju SK,7649,M,,,179.0,2003-03-19T00:00:00+00:00,Right,South Korea,2026-12-31,53000.0,EUR
+2444031,Oh Hyeong-Jun,FC Anyang,32675,M,,73.0,183.0,2007-04-17T00:00:00+00:00,,South Korea,,,
+926586,Seung-kyeom Im,Gwangju FC,48912,D,['DC'],82.0,184.0,1995-04-26T00:00:00+00:00,Right,South Korea,,52000.0,EUR
+832112,Lim Jong Eun,Daejeon Hana Citizen,7645,D,['DC'],85.0,193.0,1990-06-18T00:00:00+00:00,Right,South Korea,2026-12-31,135000.0,EUR
+2677499,Kim Gwang-won,Pohang Steelers,7650,M,,,177.0,2004-01-16T00:00:00+00:00,,South Korea,,,
+935643,Benji Michel,Ulsan HD,7653,F,"['RW', 'LW']",,178.0,1997-10-23T00:00:00+00:00,Right,USA,,320000.0,EUR
+982301,Jae-ik Lee,Ulsan HD,7653,D,"['DC', 'DL', 'DR']",78.0,185.0,1999-05-21T00:00:00+00:00,Left,South Korea,,340000.0,EUR
+1608252,Lee Yong-Jae,Gangwon FC,34220,M,,,163.0,2007-10-02T00:00:00+00:00,,South Korea,,,
+1103918,Lee Jun-Seo,Daejeon Hana Citizen,7645,G,['GK'],,185.0,1998-03-07T00:00:00+00:00,Right,South Korea,,140000.0,EUR
+2444688,Seung-jae Yoo,Jeju SK,7649,F,,,182.0,2008-03-31T00:00:00+00:00,Right,South Korea,2027-06-30,,
+2075414,Jeong Hyeon-woo,FC Seoul,7646,M,['MR'],,176.0,2004-02-09T00:00:00+00:00,Right,South Korea,,82000.0,EUR
+2048107,Shin Seong,Bucheon FC 1995,92539,M,['MC'],70.0,172.0,2005-01-13T00:00:00+00:00,Right,South Korea,,77000.0,EUR
+1102538,Roh Kyung-ho,Gimcheon Sangmu FC,7647,M,"['MC', 'DM']",,174.0,2000-07-05T00:00:00+00:00,Right,South Korea,2027-06-14,220000.0,EUR
+1407253,Lee Chan-wook,Gimcheon Sangmu FC,7647,D,['DC'],76.0,186.0,2003-02-03T00:00:00+00:00,,South Korea,,220000.0,EUR
+2650513,Sung Ye-geon,Bucheon FC 1995,92539,M,['MC'],,183.0,2005-10-30T00:00:00+00:00,Right,South Korea,,120000.0,EUR
+1104645,Lee Eui-Hyeong,Bucheon FC 1995,92539,F,['ST'],,183.0,1998-03-03T00:00:00+00:00,Left,South Korea,,145000.0,EUR
+1805544,Gyu-hyeon  Choe,FC Anyang,32675,M,['MC'],,177.0,2000-09-19T00:00:00+00:00,,South Korea,2028-02-02,145000.0,EUR
+941294,Kim Hyeon-uk,Daejeon Hana Citizen,7645,M,"['MC', 'RW']",61.0,160.0,1995-06-22T00:00:00+00:00,Left,South Korea,,305000.0,EUR
+1473141,Jeong Jae-Min,Gimcheon Sangmu FC,7647,F,['ST'],88.0,191.0,2001-10-28T00:00:00+00:00,Right,South Korea,2027-06-14,180000.0,EUR
+1026188,In-kyun Kim,Gimcheon Sangmu FC,7647,F,['ML'],,173.0,1998-07-23T00:00:00+00:00,Left,South Korea,2026-12-01,375000.0,EUR
+2548690,Park Sung-hyun,Gwangju FC,48912,F,,,174.0,2009-07-14T00:00:00+00:00,,South Korea,2027-12-31,79000.0,EUR
+926648,Kyeong-min Kim,Gwangju FC,48912,G,['GK'],,190.0,1991-11-01T00:00:00+00:00,Right,South Korea,,270000.0,EUR
+1025817,Yeon-su Kim,Incheon United,7648,D,"['DC', 'DR']",,187.0,1993-12-29T00:00:00+00:00,Right,South Korea,,315000.0,EUR
+1007254,Branislav Knežević,FC Anyang,32675,M,"['MC', 'DM', 'AM']",,183.0,2002-07-21T00:00:00+00:00,Right,Serbia,,1200000.0,EUR
+171785,Gerso Fernandes,Incheon United,7648,M,"['MR', 'LW']",67.0,174.0,1991-02-23T00:00:00+00:00,Left,Guinea-Bissau,,515000.0,EUR
+1026087,Geon-Joo Choi,FC Anyang,32675,M,['LW'],,175.0,1999-06-26T00:00:00+00:00,Right,South Korea,,380000.0,EUR
+109445,Bo-kyung Kim,FC Anyang,32675,M,['AM'],73.0,178.0,1989-10-06T00:00:00+00:00,Left,South Korea,,145000.0,EUR
+1838694,Jeong-hun  Park,FC Anyang,32675,F,['LW'],,181.0,2004-08-21T00:00:00+00:00,Left,South Korea,,130000.0,EUR
+2053157,Lee Sang-myung,Jeonbuk Hyundai Motors,6908,D,['DR'],,181.0,2003-04-23T00:00:00+00:00,Right,South Korea,,140000.0,EUR
+1835615,Kim Dong-hyun,Bucheon FC 1995,92539,M,['LW'],73.0,176.0,2002-12-15T00:00:00+00:00,Right,South Korea,,140000.0,EUR
+1975918,Son Jeong-beom,FC Seoul,7646,M,['MC'],,180.0,2007-09-28T00:00:00+00:00,Left,South Korea,,320000.0,EUR
+1025758,Hui-gyun Lee,Ulsan HD,7653,M,"['MC', 'AM', 'ST']",66.0,168.0,1998-04-29T00:00:00+00:00,Right,South Korea,,315000.0,EUR
+832404,Kang Hyun Yu,Daejeon Hana Citizen,7645,F,['ST'],,182.0,1996-04-27T00:00:00+00:00,Right,South Korea,,395000.0,EUR
+1093360,Pedrinho,Ulsan HD,7653,F,['RW'],68.0,172.0,2002-02-20T00:00:00+00:00,Left,Brazil,,245000.0,EUR
+1500743,Chang-woo Lee,Pohang Steelers,7650,M,['MR'],,178.0,2006-03-12T00:00:00+00:00,Right,South Korea,,165000.0,EUR
+889698,Jin-ya Kim,Daejeon Hana Citizen,7645,D,"['DL', 'DR']",66.0,177.0,1998-06-30T00:00:00+00:00,Right,South Korea,,290000.0,EUR
+2444791,Cho Won-woo,Gangwon FC,34220,F,,,175.0,2005-05-12T00:00:00+00:00,,South Korea,,96000.0,EUR
+1902108,Kim Yun-Ho,Gwangju FC,48912,F,['ST'],,189.0,2007-05-13T00:00:00+00:00,Right,South Korea,,97000.0,EUR
+1103914,Jeon Byung-kwan,Gimcheon Sangmu FC,7647,M,['RW'],,178.0,2002-11-10T00:00:00+00:00,Right,South Korea,2026-12-31,530000.0,EUR
+1016885,João Victor,Daejeon Hana Citizen,7645,M,"['MR', 'RW']",,177.0,1999-02-25T00:00:00+00:00,Right,Brazil,,315000.0,EUR
+143216,Hong Chul,Gangwon FC,34220,D,"['ML', 'DL']",67.0,176.0,1990-09-17T00:00:00+00:00,Left,South Korea,,215000.0,EUR
+1103919,Shin Sang-Eun,Jeju SK,7649,F,['RW'],,185.0,1999-08-20T00:00:00+00:00,Right,South Korea,,145000.0,EUR
+1025789,Yeong-kyu Ahn,Gwangju FC,48912,D,['DC'],79.0,185.0,1989-12-04T00:00:00+00:00,Right,South Korea,,165000.0,EUR
+804666,Bong-hun Yeo,Bucheon FC 1995,92539,D,"['AM', 'MC', 'DR']",,178.0,1994-03-12T00:00:00+00:00,Right,South Korea,,46000.0,EUR
+1835383,Chae Hyun-woo,FC Anyang,32675,M,['MR'],,178.0,2004-08-19T00:00:00+00:00,Right,South Korea,2026-12-31,260000.0,EUR
+1464037,Moon Seong-Woo,FC Anyang,32675,M,['MC'],,183.0,2003-05-15T00:00:00+00:00,Right,South Korea,,140000.0,EUR
+1000238,Yong-hak Kim,Pohang Steelers,7650,M,['RW'],,172.0,2003-05-20T00:00:00+00:00,Left,South Korea,2026-12-31,120000.0,EUR
+1035140,Seung-bin Kim,Bucheon FC 1995,92539,M,['AM'],,173.0,2000-12-28T00:00:00+00:00,Right,South Korea,2028-12-31,250000.0,EUR
+1500771,In-woo Back,Ulsan HD,7653,M,['MC'],,179.0,2006-11-29T00:00:00+00:00,Right,South Korea,,235000.0,EUR
+222282,Kim In-sung,Pohang Steelers,7650,F,"['RW', 'MR']",75.0,180.0,1989-09-09T00:00:00+00:00,Right,South Korea,,260000.0,EUR
+1597284,Seok-jin Han,Jeonbuk Hyundai Motors,6908,M,['ML'],,174.0,2007-12-19T00:00:00+00:00,,South Korea,,79000.0,EUR
+1025870,Sang-ki Lee,Incheon United,7648,D,"['DR', 'MR']",,179.0,1996-05-07T00:00:00+00:00,Right,South Korea,,155000.0,EUR
+958858,Andrea Compagno,Jeonbuk Hyundai Motors,6908,F,['ST'],,194.0,1996-04-22T00:00:00+00:00,Right,Italy,2026-12-31,1900000.0,EUR
+791480,Yong Woo Park,Ulsan HD,7653,D,"['MC', 'DM', 'DC']",80.0,186.0,1993-09-10T00:00:00+00:00,Right,South Korea,,955000.0,EUR
+1022455,Sung-yun Kwon,Gwangju FC,48912,D,['DR'],,174.0,2001-03-30T00:00:00+00:00,Right,South Korea,,145000.0,EUR
+1082711,Blaise Tsague,FC Anyang,32675,F,['ST'],,181.0,2000-05-07T00:00:00+00:00,Right,Cameroon,,320000.0,EUR
+1843340,An Jae-joon,Pohang Steelers,7650,F,['ST'],80.0,185.0,2001-04-03T00:00:00+00:00,Right,South Korea,2027-12-31,190000.0,EUR
+2034126,Sang-hyeok Cho,Pohang Steelers,7650,F,['ST'],81.0,187.0,2004-01-23T00:00:00+00:00,Right,South Korea,,140000.0,EUR
+1883580,Ji-hoon Jeong,Gwangju FC,48912,M,['ML'],65.0,175.0,2004-04-09T00:00:00+00:00,Right,South Korea,2027-12-31,210000.0,EUR
+1026191,Kim Min-kyu,Gimcheon Sangmu FC,7647,D,['DC'],82.0,188.0,1998-04-01T00:00:00+00:00,Right,South Korea,2026-12-01,240000.0,EUR
+1026209,Kun-hee Lee,Jeju SK,7649,F,['ST'],,187.0,1998-02-17T00:00:00+00:00,Right,South Korea,,260000.0,EUR
+1103525,Park Sang-Hyeok,Gangwon FC,34220,F,['ST'],,187.0,2002-06-13T00:00:00+00:00,Right,South Korea,,390000.0,EUR
+1025788,Je-un Yeon,Jeonbuk Hyundai Motors,6908,D,['DC'],78.0,183.0,1994-08-28T00:00:00+00:00,Right,South Korea,,260000.0,EUR
+976210,Jeong-in Park,Bucheon FC 1995,92539,F,['ST'],74.0,180.0,2000-10-07T00:00:00+00:00,Right,South Korea,,165000.0,EUR
+38631,Kwang-hun Shin,Pohang Steelers,7650,D,"['DR', 'DC']",76.0,178.0,1987-03-18T00:00:00+00:00,Right,South Korea,,110000.0,EUR
+1175336,Seong-min Kim,Incheon United,7648,M,['MR'],,171.0,2000-07-03T00:00:00+00:00,Right,South Korea,,130000.0,EUR
+1185296,Min-geu Kang,Gimcheon Sangmu FC,7647,F,"['ST', 'RW']",,185.0,1998-09-07T00:00:00+00:00,Right,South Korea,2027-05-16,270000.0,EUR
+1386462,Jae-Hwan Hwang,Pohang Steelers,7650,M,['AM'],,170.0,2001-04-12T00:00:00+00:00,,South Korea,,55000.0,EUR
+809514,Young-Jae Seo,Daejeon Hana Citizen,7645,D,"['DL', 'ML']",75.0,182.0,1995-05-23T00:00:00+00:00,Left,South Korea,,195000.0,EUR
+974182,Chi-in Jeong,Incheon United,7648,M,"['ML', 'LW']",71.0,182.0,1997-08-21T00:00:00+00:00,Left,South Korea,,215000.0,EUR
+1185550,Jin-ho Kim,Gwangju FC,48912,D,"['DL', 'MR', 'DR']",,178.0,2000-01-21T00:00:00+00:00,Right,South Korea,2028-02-02,340000.0,EUR
+1175330,Park Ho-min,Incheon United,7648,F,['ST'],,189.0,2001-10-09T00:00:00+00:00,Right,South Korea,,115000.0,EUR
+2033954,Hui-su Kang,Gwangju FC,48912,M,['MC'],71.0,176.0,2003-02-25T00:00:00+00:00,Right,South Korea,,115000.0,EUR
+1109068,Gustavo Nescau,Bucheon FC 1995,92539,F,['ST'],,189.0,2000-03-11T00:00:00+00:00,Right,Brazil,,240000.0,EUR
+1025837,Byeong-chan Choi,Gangwon FC,34220,F,"['ST', 'MR']",69.0,178.0,1996-04-04T00:00:00+00:00,Right,South Korea,2026-12-31,210000.0,EUR
+1459643,Park Seung-ho,Incheon United,7648,F,['ST'],,180.0,2003-09-01T00:00:00+00:00,Right,South Korea,2027-12-31,285000.0,EUR
+881305,Seung-un Ha,Gwangju FC,48912,F,"['LW', 'RW', 'ST']",,178.0,1998-05-04T00:00:00+00:00,Right,South Korea,,170000.0,EUR
+822551,Lee Sangheon,Gimcheon Sangmu FC,7647,F,"['ST', 'LW']",,178.0,1998-02-26T00:00:00+00:00,Right,South Korea,2027-05-16,630000.0,EUR
+2444032,Kim Kang,FC Anyang,32675,F,,67.0,172.0,2007-07-05T00:00:00+00:00,,South Korea,,47000.0,EUR
+1869678,Yong-jun Hong,Gwangju FC,48912,M,,,173.0,2003-03-26T00:00:00+00:00,Left,South Korea,,110000.0,EUR
+1639427,Min-gyu Baek,Incheon United,7648,F,['ML'],75.0,183.0,2005-11-20T00:00:00+00:00,Right,South Korea,,105000.0,EUR
+832402,Won-jin Jeong,Incheon United,7648,M,['MC'],,176.0,1994-08-10T00:00:00+00:00,Right,South Korea,,270000.0,EUR
+1463313,Lee Sang-hyeok,Bucheon FC 1995,92539,D,['DC'],76.0,185.0,2001-01-06T00:00:00+00:00,Left,South Korea,2028-02-02,185000.0,EUR
+1500819,Tae-ho Jin,Jeonbuk Hyundai Motors,6908,F,['MC'],,170.0,2006-01-20T00:00:00+00:00,Right,South Korea,2026-12-31,160000.0,EUR
+2044391,Yoon Jae-Seok,Gimcheon Sangmu FC,7647,M,['LW'],,177.0,2003-10-22T00:00:00+00:00,,South Korea,2027-06-14,270000.0,EUR
+1185299,Hyeon-ho Moon,Gimcheon Sangmu FC,7647,G,['GK'],89.0,196.0,2003-05-13T00:00:00+00:00,,South Korea,,94000.0,EUR
+1009487,Ji-ho Han,Bucheon FC 1995,92539,F,"['ST', 'LW']",,179.0,1988-12-15T00:00:00+00:00,Right,South Korea,,92000.0,EUR
+1894276,Hyeok-joo An,Gwangju FC,48912,F,['ML'],73.0,176.0,2004-09-03T00:00:00+00:00,,South Korea,,155000.0,EUR
+1025795,Hyun-woo Ju,FC Anyang,32675,D,"['DL', 'ML', 'DR']",67.0,174.0,1990-09-12T00:00:00+00:00,Right,South Korea,,160000.0,EUR
+2444375,Gong Bae-Hyeon,Gwangju FC,48912,D,['DC'],,185.0,2007-03-05T00:00:00+00:00,Right,South Korea,,160000.0,EUR
+1465380,Lee Jae-won,Bucheon FC 1995,92539,D,"['DC', 'DR']",77.0,184.0,2002-05-05T00:00:00+00:00,Right,South Korea,2027-12-31,165000.0,EUR
+2648364,Kim Woo-Jin,Gwangju FC,48912,M,,,,2005-05-05T00:00:00+00:00,Right,South Korea,,,
+2053629,Jin-woo Bae,Gwangju FC,48912,D,['DR'],,183.0,2002-01-23T00:00:00+00:00,Right,South Korea,,105000.0,EUR
+1639408,Jin Si-Woo,Pohang Steelers,7650,D,['DC'],,190.0,2002-08-05T00:00:00+00:00,Right,South Korea,,180000.0,EUR
+1025744,Min-ki Lee,Gwangju FC,48912,D,['DL'],,176.0,1993-05-19T00:00:00+00:00,Right,South Korea,,205000.0,EUR
+2256553,Lee Hyo-bin,Gangwon FC,34220,D,,,178.0,2007-08-01T00:00:00+00:00,Left,South Korea,,55000.0,EUR
+1008431,Emir Saitoski,Gwangju FC,48912,F,['RW'],,176.0,2003-05-08T00:00:00+00:00,Left,Slovenia,,325000.0,EUR
+1634038,Jung Jae-Sang,Ulsan HD,7653,F,['ST'],84.0,187.0,2004-05-25T00:00:00+00:00,Right,South Korea,,130000.0,EUR
+227188,Patrick Twumasi,Jeonbuk Hyundai Motors,6908,F,"['LW', 'RW']",70.0,176.0,1994-05-09T00:00:00+00:00,Right,Ghana,,315000.0,EUR
+2256519,Lee Chung-hyun,Bucheon FC 1995,92539,F,,,177.0,2007-09-12T00:00:00+00:00,,South Korea,2027-06-30,220000.0,EUR
+1025839,Ji-hwan Mun,Incheon United,7648,M,"['MC', 'DM']",,184.0,1994-07-26T00:00:00+00:00,Right,South Korea,2026-12-31,210000.0,EUR
+2048734,Kwak Sung-Hun,Gwangju FC,48912,D,,76.0,190.0,2006-06-18T00:00:00+00:00,,South Korea,,,
+2444376,Uh Dam,Bucheon FC 1995,92539,F,,,186.0,2006-03-23T00:00:00+00:00,,South Korea,,,
+1608244,Jung Gyu-Min,Gwangju FC,48912,M,,,174.0,2007-01-04T00:00:00+00:00,,South Korea,,,
+2686457,Ko Eun-Seok,Gangwon FC,34220,D,,,,2005-06-12T00:00:00+00:00,,South Korea,,,
+1869081,Ju-Hyeok Kang,Gimcheon Sangmu FC,7647,M,,,178.0,2006-08-27T00:00:00+00:00,Left,South Korea,2027-05-16,110000.0,EUR
+1175331,Jang Han-gyeol Park,FC Seoul,7646,M,,73.0,180.0,2004-02-15T00:00:00+00:00,Right,South Korea,,52000.0,EUR
+2034130,Heon-jae Lee,Pohang Steelers,7650,F,,71.0,176.0,2006-03-23T00:00:00+00:00,Right,South Korea,,26000.0,EUR
+2033923,Ji-ho Lee,Gangwon FC,34220,F,['ML'],77.0,183.0,2002-04-16T00:00:00+00:00,Right,South Korea,2026-12-31,240000.0,EUR
+2084725,Byung-chan Park,Daejeon Hana Citizen,7645,M,,,181.0,2008-10-21T00:00:00+00:00,,South Korea,2026-12-31,,

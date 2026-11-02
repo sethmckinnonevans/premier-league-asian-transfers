@@ -1,0 +1,511 @@
+id,name,team_name,team_id,position,positions_detailed,weight,height,dob,preferred_foot,country,contract_until,market_value,market_value_currency
+926509,Sachiro Toshima,Kashiwa Reysol,3140,M,"['MC', 'DM']",65.0,170,1995-09-26T00:00:00+00:00,Right,Japan,,330000.0,EUR
+556948,Yuta Nakayama,Machida Zelvia,44409,D,"['DC', 'DL']",70.0,183,1997-02-16T00:00:00+00:00,Left,Japan,2029-06-30,1500000.0,EUR
+576002,Léo Ceará,Kashima Antlers,3134,F,['ST'],,178,1995-02-03T00:00:00+00:00,Right,Brazil,,2700000.0,EUR
+1184594,Shuto Nakano,Sanfrecce Hiroshima,3135,M,"['MR', 'DC', 'DR']",,182,2000-06-27T00:00:00+00:00,Right,Japan,2027-01-31,1300000.0,EUR
+147121,Tsukasa Shiotani,Sanfrecce Hiroshima,3135,D,"['DC', 'DR']",79.0,182,1988-12-05T00:00:00+00:00,Right,Japan,,185000.0,EUR
+224022,Sho Sasaki,Sanfrecce Hiroshima,3135,D,"['DC', 'DL']",67.0,176,1989-10-02T00:00:00+00:00,Right,Japan,,245000.0,EUR
+976359,Yuma Obata,Avispa Fukuoka,3143,G,['GK'],79.0,183,2001-11-07T00:00:00+00:00,Right,Japan,,285000.0,EUR
+869630,Marcinho,Kawasaki Frontale,5127,M,['LW'],66.0,173,1995-05-16T00:00:00+00:00,Right,Brazil,2026-12-31,980000.0,EUR
+796603,Diego,Vissel Kobe,3146,M,['DL'],77.0,183,1995-09-21T00:00:00+00:00,Left,Brazil,,475000.0,EUR
+1513322,Hayato Inamura,FC Tokyo,3147,D,['DC'],70.0,181,2002-05-06T00:00:00+00:00,Left,Japan,,485000.0,EUR
+945290,Yuki Soma,Machida Zelvia,44409,F,['AM'],68.0,165,1997-02-25T00:00:00+00:00,Right,Japan,,2100000.0,EUR
+1149706,Tojiro Kubo,Kashiwa Reysol,3140,M,['MR'],,167,1999-04-05T00:00:00+00:00,Right,Japan,2029-06-30,860000.0,EUR
+1029055,Yoshio Koizumi,Kashiwa Reysol,3140,F,['AM'],,172,1996-10-05T00:00:00+00:00,Right,Japan,2027-06-30,1000000.0,EUR
+840298,Matheus Jesus,V-Varen Nagasaki,38154,F,"['ST', 'AM', 'MC']",81.0,186,1997-04-10T00:00:00+00:00,Left,Brazil,2028-06-30,1900000.0,EUR
+155787,Takuya Iwanami,Vissel Kobe,3146,D,['DC'],72.0,185,1994-06-18T00:00:00+00:00,Right,Japan,2027-06-30,165000.0,EUR
+1149621,Hiroto Morooka,Kyoto Sanga FC,3149,M,['MC'],,168,1997-01-04T00:00:00+00:00,Right,Japan,,270000.0,EUR
+925833,Shunki Higashi,Sanfrecce Hiroshima,3135,M,['ML'],69.0,180,2000-07-28T00:00:00+00:00,Left,Japan,,1600000.0,EUR
+137694,Alexander Scholz,FC Tokyo,3147,D,['DC'],87.0,189,1992-10-24T00:00:00+00:00,Right,Denmark,,1100000.0,EUR
+980430,Takuro Kaneko,Urawa Red Diamonds,3145,M,['RW'],,178,1997-07-30T00:00:00+00:00,Left,Japan,2027-06-30,1300000.0,EUR
+929608,Haruya Fujii,Nagoya Grampus,3136,D,"['DC', 'DR']",,186,2000-12-26T00:00:00+00:00,Right,Japan,,1600000.0,EUR
+1020082,Yuki Yamamoto,Kawasaki Frontale,5127,M,"['MC', 'DM']",,173,1997-11-06T00:00:00+00:00,Right,Japan,2028-06-30,1000000.0,EUR
+976083,Mateus Brunetti,Shimizu S-Pulse,3133,D,"['DC', 'DL']",,183,1999-11-18T00:00:00+00:00,Left,Brazil,,525000.0,EUR
+928527,Rafael Elias,Kyoto Sanga FC,3149,F,['ST'],,179,1999-04-12T00:00:00+00:00,Left,Brazil,2027-06-30,3400000.0,EUR
+330065,Erik,Vissel Kobe,3146,F,"['ST', 'RW']",,172,1994-07-18T00:00:00+00:00,Right,Brazil,,1100000.0,EUR
+974602,Keita Takahata,V-Varen Nagasaki,38154,D,"['DL', 'ML']",,175,2000-09-16T00:00:00+00:00,Left,Japan,2027-06-30,390000.0,EUR
+978279,Naoto Arai,Sanfrecce Hiroshima,3135,M,['MR'],73.0,173,1996-10-07T00:00:00+00:00,Right,Japan,2027-01-31,660000.0,EUR
+1397395,Motoki Nagakura,FC Tokyo,3147,F,['ST'],,176,1999-10-07T00:00:00+00:00,Right,Japan,,755000.0,EUR
+1016793,Jun Ichimori,Gamba Osaka,3138,G,['GK'],,182,1991-07-02T00:00:00+00:00,Right,Japan,2028-06-30,265000.0,EUR
+1171900,Akito Suzuki,Sanfrecce Hiroshima,3135,F,['ST'],,178,2003-07-30T00:00:00+00:00,Right,Japan,,1300000.0,EUR
+2462977,Kokoro Maeda,Avispa Fukuoka,3143,M,['DM'],75.0,178,2004-07-01T00:00:00+00:00,Right,Japan,,97000.0,EUR
+878481,Lazar Romanić,Kawasaki Frontale,5127,F,['ST'],73.0,183,1998-03-25T00:00:00+00:00,Right,Serbia,2028-06-30,930000.0,EUR
+321001,Hayao Kawabe,Sanfrecce Hiroshima,3135,M,"['MC', 'DM']",70.0,178,1995-09-08T00:00:00+00:00,Right,Japan,2027-06-30,1900000.0,EUR
+873072,Takuya Yasui,JEF United Chiba,3144,M,['MC'],66.0,174,1998-11-21T00:00:00+00:00,Right,Japan,,360000.0,EUR
+798180,Thomas Ouwejan,Machida Zelvia,44409,D,"['DL', 'ML']",74.0,184,1996-09-30T00:00:00+00:00,Left,Netherlands,,660000.0,EUR
+910637,Thuler,Vissel Kobe,3146,D,['DC'],,185,1999-03-10T00:00:00+00:00,Right,Brazil,,1900000.0,EUR
+1105118,Rikito Inoue,Cerezo Osaka,3141,D,['DC'],,178,1997-03-09T00:00:00+00:00,Right,Japan,,440000.0,EUR
+1028345,Daihachi Okamura,Machida Zelvia,44409,D,['DC'],82.0,183,1997-02-15T00:00:00+00:00,Right,Japan,2027-06-30,930000.0,EUR
+981064,Tomoki Takamine,Nagoya Grampus,3136,M,"['MC', 'DM']",,177,1997-12-29T00:00:00+00:00,Left,Japan,,970000.0,EUR
+1102442,Issei Ouchi,Sanfrecce Hiroshima,3135,G,['GK'],,184,2000-09-08T00:00:00+00:00,Right,Japan,,160000.0,EUR
+833226,Yusuke Segawa,Kashiwa Reysol,3140,M,"['ST', 'AM']",67.0,170,1994-02-07T00:00:00+00:00,Right,Japan,2027-06-30,475000.0,EUR
+604166,Aleksandar Čavrić,Kashima Antlers,3134,M,"['ST', 'RW']",78.0,186,1994-05-18T00:00:00+00:00,Right,Slovakia,,1300000.0,EUR
+1507458,Alex Souza,Kyoto Sanga FC,3149,F,['ST'],,180,2001-03-24T00:00:00+00:00,Right,Brazil,,720000.0,EUR
+1488964,Soma Anzai,FC Tokyo,3147,M,['RW'],,175,2002-09-29T00:00:00+00:00,Right,Japan,2027-06-30,550000.0,EUR
+944359,Jeisson Quiñónes,Yokohama F. Marinos,3137,D,['DC'],84.0,185,1997-08-17T00:00:00+00:00,Right,Colombia,2026-12-31,970000.0,EUR
+823565,Tetsushi Yamakawa,Vissel Kobe,3146,D,['DC'],71.0,184,1997-10-01T00:00:00+00:00,Right,Japan,,1100000.0,EUR
+1028957,Masahito Ono,Nagoya Grampus,3136,M,['DL'],,172,1996-08-09T00:00:00+00:00,Left,Japan,,190000.0,EUR
+1030212,Ryoya Yamashita,Gamba Osaka,3138,M,['RW'],54.0,164,1997-10-19T00:00:00+00:00,Right,Japan,,975000.0,EUR
+155792,Sei Muroya,FC Tokyo,3147,D,"['DR', 'MR']",68.0,174,1994-04-05T00:00:00+00:00,Right,Japan,2027-06-30,330000.0,EUR
+831826,Tsukasa Morishima,Nagoya Grampus,3136,M,"['AM', 'MC', 'DM']",59.0,173,1997-04-25T00:00:00+00:00,Right,Japan,2028-01-31,720000.0,EUR
+790985,Shota Fukuoka,Gamba Osaka,3138,D,['DC'],73.0,180,1995-10-24T00:00:00+00:00,Right,Japan,,520000.0,EUR
+1501077,Shuto Nagano,FC Tokyo,3147,D,['DC'],,182,2006-04-15T00:00:00+00:00,Right,Japan,2028-06-30,285000.0,EUR
+985153,Ju-sung Kim,Sanfrecce Hiroshima,3135,D,"['DC', 'DL']",76.0,186,2000-12-12T00:00:00+00:00,Left,South Korea,,825000.0,EUR
+997499,Daniel Schmidt,Nagoya Grampus,3136,G,['GK'],90.0,196,1992-02-03T00:00:00+00:00,Right,Japan,2028-06-30,465000.0,EUR
+1501083,Yotaro Nakajima,Sanfrecce Hiroshima,3135,M,"['MC', 'DM']",,173,2006-04-22T00:00:00+00:00,Right,Japan,2028-06-30,835000.0,EUR
+387374,Sho Inagaki,Nagoya Grampus,3136,M,"['DM', 'MC']",72.0,175,1991-12-25T00:00:00+00:00,Right,Japan,,530000.0,EUR
+873061,Kosei Tani,Machida Zelvia,44409,G,['GK'],,187,2000-11-22T00:00:00+00:00,Right,Japan,,1800000.0,EUR
+801830,Neta Lavi,Machida Zelvia,44409,M,"['MC', 'DM']",,175,1996-08-25T00:00:00+00:00,Right,Israel,,745000.0,EUR
+1125626,Haruka Motoyama,Fagiano Okayama,34034,M,"['DM', 'DC', 'MC', 'MR', 'DR']",71.0,171,1999-06-05T00:00:00+00:00,Right,Japan,2027-06-30,235000.0,EUR
+277449,Yuji Takahashi,Shimizu S-Pulse,3133,D,['DC'],78.0,185,1993-04-11T00:00:00+00:00,Right,Japan,,220000.0,EUR
+871884,Kei Chinen,Yokohama F. Marinos,3137,M,"['MC', 'DM', 'ST']",71.0,177,1995-03-17T00:00:00+00:00,Right,Japan,,860000.0,EUR
+23952,Shuichi Gonda,Vissel Kobe,3146,G,['GK'],83.0,187,1989-03-03T00:00:00+00:00,Right,Japan,,91000.0,EUR
+873217,Taishi Semba,Mito Hollyhock,21901,M,"['MC', 'AM']",62.0,164,1999-08-19T00:00:00+00:00,Right,Japan,,290000.0,EUR
+155775,Kosuke Nakamura,Cerezo Osaka,3141,G,['GK'],72.0,185,1995-02-27T00:00:00+00:00,Right,Japan,,275000.0,EUR
+841647,Taiyo Koga,Kashiwa Reysol,3140,D,['DC'],71.0,182,1998-10-28T00:00:00+00:00,Right,Japan,,1200000.0,EUR
+1101212,Konosuke Nishikawa,Mito Hollyhock,21901,G,['GK'],78.0,181,2002-09-11T00:00:00+00:00,Right,Japan,2028-06-30,920000.0,EUR
+882204,Togo Umeda,Shimizu S-Pulse,3133,G,['GK'],,182,2000-07-03T00:00:00+00:00,Right,Japan,,360000.0,EUR
+896182,Arata Watanabe,Mito Hollyhock,21901,F,['ST'],67.0,169,1995-08-05T00:00:00+00:00,Right,Japan,,665000.0,EUR
+873297,Issei Takahashi,Vissel Kobe,3146,D,['DR'],71.0,178,1998-04-20T00:00:00+00:00,Right,Japan,,580000.0,EUR
+1426973,Kaina Tanimura,Yokohama F. Marinos,3137,F,['ST'],,181,1998-03-05T00:00:00+00:00,Right,Japan,2027-06-30,1400000.0,EUR
+994190,Derik Lacerda,Kawasaki Frontale,5127,F,['ST'],,190,1999-09-26T00:00:00+00:00,Right,Brazil,,1500000.0,EUR
+181581,Jackson Irvine,Cerezo Osaka,3141,M,"['MC', 'DM']",70.0,190,1993-03-07T00:00:00+00:00,Right,Australia,,1100000.0,EUR
+1020073,Tomoya Fujii,Shimizu S-Pulse,3133,M,"['MR', 'RW']",,173,1998-12-04T00:00:00+00:00,Right,Japan,,360000.0,EUR
+1135154,Kenshin Yasuda,V-Varen Nagasaki,38154,M,"['MC', 'DM']",,182,2005-03-05T00:00:00+00:00,Right,Japan,,325000.0,EUR
+1105033,Welton,Gamba Osaka,3138,M,['LW'],,175,1997-08-06T00:00:00+00:00,Right,Brazil,2027-01-31,1200000.0,EUR
+1047034,Motoki Hasegawa,V-Varen Nagasaki,38154,F,"['AM', 'ST']",70.0,177,1998-12-10T00:00:00+00:00,Right,Japan,,930000.0,EUR
+206634,Ryosuke Yamanaka,Kyoto Sanga FC,3149,M,['DL'],65.0,171,1993-04-20T00:00:00+00:00,Left,Japan,2027-06-30,120000.0,EUR
+947120,Koki Morita,Tokyo Verdy,3139,M,"['MC', 'DM']",59.0,167,2000-08-08T00:00:00+00:00,Right,Japan,,1100000.0,EUR
+48411,Gotoku Sakai,Vissel Kobe,3146,D,['DR'],74.0,176,1991-03-14T00:00:00+00:00,Right,Japan,2027-06-30,260000.0,EUR
+358954,Kazuya Miyahara,Tokyo Verdy,3139,D,"['DR', 'DC', 'MR']",67.0,172,1996-03-22T00:00:00+00:00,Right,Japan,2027-01-31,595000.0,EUR
+1028962,Soya Fujiwara,Gamba Osaka,3138,D,['DR'],67.0,170,1995-09-09T00:00:00+00:00,Right,Japan,,480000.0,EUR
+148354,Gen Shoji,Machida Zelvia,44409,D,"['DC', 'DL', 'DR']",73.0,180,1992-12-11T00:00:00+00:00,Right,Japan,,280000.0,EUR
+842171,Tatsuya Ito,Kawasaki Frontale,5127,M,"['RW', 'LW']",59.0,166,1997-06-26T00:00:00+00:00,Both,Japan,2028-06-30,860000.0,EUR
+873043,Taishi Matsumoto,Sanfrecce Hiroshima,3135,M,"['DM', 'MC', 'AM']",66.0,178,1998-08-22T00:00:00+00:00,Right,Japan,,775000.0,EUR
+309456,Yuki Honda,Shimizu S-Pulse,3133,D,"['DC', 'DL']",65.0,172,1991-01-02T00:00:00+00:00,Right,Japan,,110000.0,EUR
+926641,Masaki Watai,Kashiwa Reysol,3140,F,"['AM', 'MC']",58.0,168,1999-07-18T00:00:00+00:00,Right,Japan,2028-06-30,485000.0,EUR
+976200,Ikuma Sekigawa,Kashima Antlers,3134,D,['DC'],72.0,183,2000-09-13T00:00:00+00:00,Right,Japan,,865000.0,EUR
+1214881,Harumi Minamino,Urawa Red Diamonds,3145,F,['ST'],,175,2004-05-13T00:00:00+00:00,Left,Japan,,475000.0,EUR
+976199,Hayato Araki,Sanfrecce Hiroshima,3135,D,['DC'],75.0,185,1996-08-07T00:00:00+00:00,Right,Japan,,1500000.0,EUR
+1020071,Tatsuki Seko,Urawa Red Diamonds,3145,M,"['MC', 'DM']",,175,1997-12-22T00:00:00+00:00,Right,Japan,,930000.0,EUR
+2038518,Nobuteru Nakagawa,Kashiwa Reysol,3140,M,"['MC', 'DM']",71.0,173,2002-05-15T00:00:00+00:00,Right,Japan,2027-06-30,700000.0,EUR
+939400,Kashif Bangnagande,FC Tokyo,3147,D,['DL'],,174,2001-09-24T00:00:00+00:00,Left,Japan,,315000.0,EUR
+931509,Eduardo,JEF United Chiba,3144,M,"['MC', 'LW', 'DM']",67.0,170,1997-02-01T00:00:00+00:00,Right,Brazil,,550000.0,EUR
+793522,Yoshinori Suzuki,Kyoto Sanga FC,3149,D,['DC'],76.0,184,1992-09-11T00:00:00+00:00,Right,Japan,,260000.0,EUR
+831952,Yasuki Kimoto,Mito Hollyhock,21901,D,['DC'],73.0,183,1993-08-06T00:00:00+00:00,Right,Japan,,185000.0,EUR
+1126255,Tomoki Kondo,Yokohama F. Marinos,3137,M,"['MR', 'RW']",,172,2001-03-21T00:00:00+00:00,Right,Japan,,720000.0,EUR
+1979340,Tenmu Matsumoto,V-Varen Nagasaki,38154,M,['MC'],59.0,169,2002-09-28T00:00:00+00:00,Left,Japan,2027-06-30,415000.0,EUR
+1650449,Henry Heroki Mochizuki,Machida Zelvia,44409,D,"['DR', 'MR']",,192,2001-09-20T00:00:00+00:00,Right,Japan,2028-01-31,705000.0,EUR
+794767,Hiroyuki Mae,Machida Zelvia,44409,M,"['MC', 'DM']",70.0,173,1995-08-01T00:00:00+00:00,Right,Japan,,730000.0,EUR
+149731,Sébastien Haller,Sanfrecce Hiroshima,3135,F,['ST'],82.0,190,1994-06-22T00:00:00+00:00,Right,Côte d'Ivoire,2027-06-30,950000.0,EUR
+1172503,Riku Yamane,Yokohama F. Marinos,3137,M,"['MC', 'DM']",,173,2003-08-17T00:00:00+00:00,Right,Japan,2027-06-30,925000.0,EUR
+972506,Shogo Sasaki,Gamba Osaka,3138,D,['DC'],75.0,183,2000-07-25T00:00:00+00:00,Right,Japan,,210000.0,EUR
+24447,Hiroki Ilkura,Yokohama F. Marinos,3137,G,['GK'],75.0,181,1986-06-01T00:00:00+00:00,Right,Japan,,55000.0,EUR
+1499510,Yumeki Yokoyama,Cerezo Osaka,3141,M,['LW'],72.0,172,2005-09-23T00:00:00+00:00,Right,Japan,,970000.0,EUR
+1171906,Kazuki Tanaka,JEF United Chiba,3144,M,"['MR', 'RW']",,173,2000-01-13T00:00:00+00:00,Right,Japan,,730000.0,EUR
+335047,Yoshinori Muto,Vissel Kobe,3146,F,['RW'],72.0,179,1992-07-15T00:00:00+00:00,Right,Japan,,765000.0,EUR
+1019060,Ryuho Kikuchi,Machida Zelvia,44409,D,['DC'],80.0,188,1996-12-09T00:00:00+00:00,Right,Japan,,190000.0,EUR
+1474931,Ryuma Nakano,Kyoto Sanga FC,3149,M,['MC'],,167,2002-10-06T00:00:00+00:00,Right,Japan,2027-06-30,190000.0,EUR
+1104713,João Pedro,Kyoto Sanga FC,3149,M,"['MC', 'DM']",,185,1999-09-03T00:00:00+00:00,Right,Brazil,2029-06-30,375000.0,EUR
+869864,Takahiro Ko,FC Tokyo,3147,M,"['MC', 'DM']",64.0,172,1998-04-20T00:00:00+00:00,Right,Japan,2028-06-30,1000000.0,EUR
+932007,Yasuto Wakizaka,Kawasaki Frontale,5127,M,['AM'],65.0,172,1995-06-11T00:00:00+00:00,Right,Japan,2028-06-30,1400000.0,EUR
+873037,Katsuya Nagato,Vissel Kobe,3146,D,['DL'],71.0,172,1995-01-15T00:00:00+00:00,Left,Japan,2027-06-30,775000.0,EUR
+1046711,Keita Endo,Kashiwa Reysol,3140,M,"['ML', 'LW']",66.0,175,1997-11-22T00:00:00+00:00,Right,Japan,,580000.0,EUR
+109352,Yamaguchi Hotaru,V-Varen Nagasaki,38154,M,"['MC', 'DM']",72.0,173,1990-10-06T00:00:00+00:00,Right,Japan,2028-06-30,295000.0,EUR
+1009824,Shunta Tanaka,Cerezo Osaka,3141,M,"['MC', 'DM']",,183,1997-05-26T00:00:00+00:00,Right,Japan,2028-06-30,1100000.0,EUR
+553688,Svend Brodersen,Kawasaki Frontale,5127,G,['GK'],83.0,188,1997-03-22T00:00:00+00:00,Both,Germany,2029-06-30,815000.0,EUR
+2049775,Kenta Itakura,Mito Hollyhock,21901,D,['DC'],78.0,182,2002-06-15T00:00:00+00:00,Right,Japan,2027-06-30,660000.0,EUR
+1476198,Shu Morooka,Avispa Fukuoka,3143,F,['RW'],69.0,174,2000-12-09T00:00:00+00:00,Right,Japan,,470000.0,EUR
+1017548,Hotaka Nakamura,Machida Zelvia,44409,M,"['DR', 'MR']",,177,1997-08-12T00:00:00+00:00,Right,Japan,2028-06-30,245000.0,EUR
+932384,Shinnosuke Fukuda,Kyoto Sanga FC,3149,D,['DR'],,173,2000-09-04T00:00:00+00:00,Right,Japan,2027-06-30,700000.0,EUR
+986780,Shuto Abe,Gamba Osaka,3138,M,"['MC', 'DM']",,171,1997-12-05T00:00:00+00:00,Right,Japan,,720000.0,EUR
+2048705,Anthony Motosuna,Kashima Antlers,3134,D,['DC'],74.0,189,2009-03-10T00:00:00+00:00,Right,Japan,2030-06-30,,
+791274,Kim Min-Tae,Machida Zelvia,44409,D,['DC'],78.0,187,1993-11-26T00:00:00+00:00,Right,South Korea,,340000.0,EUR
+1026480,Hisashi Appiah Tawiah,Kyoto Sanga FC,3149,D,['DC'],,191,1998-10-18T00:00:00+00:00,Right,Japan,,215000.0,EUR
+1027869,Yuji Kitajima,Avispa Fukuoka,3143,F,"['ML', 'AM']",67.0,169,2000-08-04T00:00:00+00:00,Right,Japan,,290000.0,EUR
+1027863,Tomoya Miki,Avispa Fukuoka,3143,M,"['MC', 'DM']",,171,1998-03-28T00:00:00+00:00,Right,Japan,2027-06-30,920000.0,EUR
+309546,Takuma Asano,Sanfrecce Hiroshima,3135,F,"['RW', 'ST']",70.0,173,1994-11-10T00:00:00+00:00,Right,Japan,,1400000.0,EUR
+1153326,Niko Takahashi,Cerezo Osaka,3141,D,['DL'],,173,2005-08-17T00:00:00+00:00,Left,Japan,2027-06-30,580000.0,EUR
+1027914,Kazuki Fujita,Avispa Fukuoka,3143,G,['GK'],82.0,186,2001-02-19T00:00:00+00:00,Right,Japan,,220000.0,EUR
+1104926,Yuya Kuwasaki,Vissel Kobe,3146,M,"['MC', 'DM']",,176,1998-05-15T00:00:00+00:00,Right,Japan,,630000.0,EUR
+976203,Kim Tae-hyeon,Kashima Antlers,3134,D,"['DC', 'DL']",82.0,186,2000-09-17T00:00:00+00:00,Left,South Korea,2027-06-30,1100000.0,EUR
+24292,Masato Morishige,FC Tokyo,3147,D,['DC'],76.0,183,1987-05-21T00:00:00+00:00,Right,Japan,,71000.0,EUR
+1097536,Marcelo Ryan,FC Tokyo,3147,F,['ST'],,187,2002-06-08T00:00:00+00:00,Right,Brazil,,925000.0,EUR
+1100230,Tomoki Hayakawa,Kashima Antlers,3134,G,['GK'],,187,1999-03-03T00:00:00+00:00,Right,Japan,2030-06-30,2100000.0,EUR
+1650458,Koki Kumasaka,Kashiwa Reysol,3140,M,"['DM', 'MC']",,185,2001-04-15T00:00:00+00:00,Right,Japan,,385000.0,EUR
+48240,Yuya Osako,Vissel Kobe,3146,F,['ST'],71.0,182,1990-05-18T00:00:00+00:00,Right,Japan,2027-01-31,370000.0,EUR
+1656407,Taisei Inoue,Yokohama F. Marinos,3137,D,"['DC', 'DR']",75.0,183,2002-10-01T00:00:00+00:00,Right,Japan,2028-06-30,570000.0,EUR
+1385305,Kota Tawaratsumida,FC Tokyo,3147,M,['LW'],,177,2004-05-14T00:00:00+00:00,Right,Japan,2028-06-30,865000.0,EUR
+1493121,Hayato Okuda,Cerezo Osaka,3141,D,['DR'],71.0,174,2001-04-21T00:00:00+00:00,Right,Japan,2030-06-30,435000.0,EUR
+48425,Taishi Taguchi,JEF United Chiba,3144,M,"['MC', 'DM']",70.0,176,1991-03-16T00:00:00+00:00,Right,Japan,,135000.0,EUR
+873045,Yugo Tatsuta,Fagiano Okayama,34034,D,"['DC', 'DR']",80.0,189,1998-06-21T00:00:00+00:00,Right,Japan,,775000.0,EUR
+790984,Kosuke Shirai,Fagiano Okayama,34034,M,"['DR', 'MR']",61.0,164,1994-05-01T00:00:00+00:00,Right,Japan,,380000.0,EUR
+1652388,Yu Hashimoto,Avispa Fukuoka,3143,M,['MR'],,171,2002-06-07T00:00:00+00:00,Both,Japan,2029-06-30,370000.0,EUR
+1101777,Hiroshi Omori,Fagiano Okayama,34034,D,"['DC', 'DR']",70.0,188,2002-09-10T00:00:00+00:00,Right,Japan,,205000.0,EUR
+559206,Dion Cools,Cerezo Osaka,3141,D,"['DR', 'MR', 'DC']",77.0,185,1996-06-04T00:00:00+00:00,Right,Malaysia,2027-06-30,725000.0,EUR
+832827,Maejima Yota,Avispa Fukuoka,3143,M,"['ML', 'MR']",67.0,178,1997-08-12T00:00:00+00:00,Right,Japan,,520000.0,EUR
+362886,Shinnosuke Nakatani,Gamba Osaka,3138,D,['DC'],79.0,184,1996-03-24T00:00:00+00:00,Right,Japan,2029-06-30,1100000.0,EUR
+1210182,Kosuke Matsumura,Yokohama F. Marinos,3137,M,['DM'],,170,2004-05-02T00:00:00+00:00,Right,Japan,,49000.0,EUR
+1218470,Kosei Suwama,Yokohama F. Marinos,3137,D,['DC'],,186,2003-09-06T00:00:00+00:00,Right,Japan,2028-06-30,270000.0,EUR
+1470558,Eiji Miyamoto,Fagiano Okayama,34034,M,"['MC', 'DM']",,173,1998-08-03T00:00:00+00:00,Right,Japan,,485000.0,EUR
+1173107,Kosei Okazawa,Cerezo Osaka,3141,M,"['MC', 'DM']",,165,2003-10-22T00:00:00+00:00,Left,Japan,,440000.0,EUR
+831860,Koki Ogawa,Machida Zelvia,44409,F,['ST'],,186,1997-08-08T00:00:00+00:00,Right,Japan,,2100000.0,EUR
+1027930,Kota Kawano,Fagiano Okayama,34034,F,"['ST', 'AM']",,176,2003-08-12T00:00:00+00:00,Right,Japan,,290000.0,EUR
+1028340,Takahiro Akimoto,Machida Zelvia,44409,D,"['DL', 'ML']",,170,1998-01-31T00:00:00+00:00,Left,Japan,,1400000.0,EUR
+1500628,Kenta Nemoto,Urawa Red Diamonds,3145,D,['DC'],,184,2002-12-13T00:00:00+00:00,Left,Japan,2027-06-30,410000.0,EUR
+982363,Kennedy Egbus Mikuni,Avispa Fukuoka,3143,D,"['DC', 'DR']",80.0,192,2000-06-23T00:00:00+00:00,Right,Japan,2027-06-30,550000.0,EUR
+1067787,Sodai Hasukawa,Shimizu S-Pulse,3133,D,['DC'],,182,1998-06-27T00:00:00+00:00,Right,Japan,,360000.0,EUR
+1067786,Kodai Nagata,Kyoto Sanga FC,3149,D,['DC'],74.0,179,2002-09-08T00:00:00+00:00,Left,Japan,2028-06-30,46000.0,EUR
+931567,Matheus Bueno,Kashima Antlers,3134,M,"['MC', 'DM']",72.0,178,1998-07-30T00:00:00+00:00,Right,Brazil,,970000.0,EUR
+1099110,Chihiro Kato,Mito Hollyhock,21901,M,['MR'],,175,1998-12-12T00:00:00+00:00,Right,Japan,,465000.0,EUR
+891142,Ren Komatsu,Vissel Kobe,3146,F,['ST'],,183,1998-09-10T00:00:00+00:00,Left,Japan,2028-06-30,440000.0,EUR
+873029,Yoshitake Suzuki,Fagiano Okayama,34034,D,"['DL', 'DC']",77.0,182,1998-07-06T00:00:00+00:00,Left,Japan,,310000.0,EUR
+869866,Ryotaro Meshino,Gamba Osaka,3138,M,['LW'],62.0,171,1998-06-18T00:00:00+00:00,Right,Japan,2027-06-30,360000.0,EUR
+1029644,Kai Matsuzaki,Shimizu S-Pulse,3133,M,"['RW', 'MR']",70.0,172,1997-11-22T00:00:00+00:00,Left,Japan,,630000.0,EUR
+991209,Yusuke Matsuo,Machida Zelvia,44409,M,"['ST', 'AM', 'LW']",,170,1997-07-23T00:00:00+00:00,Right,Japan,,775000.0,EUR
+1098958,Naoki Hayashi,Tokyo Verdy,3139,D,['DC'],,181,1998-06-09T00:00:00+00:00,Right,Japan,2029-06-30,365000.0,EUR
+1508071,Yuta Arai,Tokyo Verdy,3139,M,['ML'],,166,2003-03-24T00:00:00+00:00,Right,Japan,2027-06-30,330000.0,EUR
+1109512,Oberdan Alionço,Fagiano Okayama,34034,M,"['MC', 'DM']",69.0,175,1995-07-30T00:00:00+00:00,Right,Brazil,,1100000.0,EUR
+873391,Daiki Sugioka,Kashiwa Reysol,3140,D,"['DL', 'DC']",75.0,182,1998-09-08T00:00:00+00:00,Left,Japan,,480000.0,EUR
+873223,Hinata Kida,JEF United Chiba,3144,M,"['MC', 'DM']",59.0,171,2000-07-04T00:00:00+00:00,Right,Japan,,315000.0,EUR
+1501069,Rui Araki,Gamba Osaka,3138,G,['GK'],,194,2007-10-14T00:00:00+00:00,Right,Japan,,370000.0,EUR
+1392002,Takuto Kimura,Yokohama F. Marinos,3137,M,"['MC', 'DM']",,170,2000-05-16T00:00:00+00:00,Right,Japan,,210000.0,EUR
+1099113,Yu Funabashi,Mito Hollyhock,21901,M,['MC'],,175,2002-06-12T00:00:00+00:00,Right,Japan,2027-06-30,620000.0,EUR
+798121,Shinnosuke Hatanaka,Cerezo Osaka,3141,D,['DC'],80.0,184,1995-08-25T00:00:00+00:00,Right,Japan,,765000.0,EUR
+1000177,Yuta Matsumura,Kashima Antlers,3134,M,['MR'],,174,2001-04-13T00:00:00+00:00,Right,Japan,,730000.0,EUR
+387062,Yosuke Ideguchi,Vissel Kobe,3146,M,"['MC', 'DM']",71.0,171,1996-08-23T00:00:00+00:00,Right,Japan,,970000.0,EUR
+2038515,Kyota Tokiwa,FC Tokyo,3147,M,['MC'],67.0,172,2002-04-09T00:00:00+00:00,Right,Japan,2027-06-30,380000.0,EUR
+1186631,Werik Popó,Avispa Fukuoka,3143,F,['ST'],,190,2001-10-17T00:00:00+00:00,Right,Brazil,,385000.0,EUR
+1028869,Takashi Kawano,JEF United Chiba,3144,D,['DC'],85.0,186,1996-06-17T00:00:00+00:00,Right,Japan,2028-06-30,545000.0,EUR
+1096517,Tete Yengi,Machida Zelvia,44409,F,"['ST', 'LW']",,196,2000-11-28T00:00:00+00:00,Right,Australia,,475000.0,EUR
+793694,Koya Kitagawa,Shimizu S-Pulse,3133,F,['ST'],74.0,180,1996-07-26T00:00:00+00:00,Right,Japan,,935000.0,EUR
+978146,Satoki Uejo,Cerezo Osaka,3141,M,['ST'],63.0,166,1997-04-27T00:00:00+00:00,Right,Japan,,315000.0,EUR
+1027931,Daiki Fukazawa,Avispa Fukuoka,3143,M,"['DL', 'DC', 'ML']",70.0,174,1998-08-21T00:00:00+00:00,Right,Japan,,390000.0,EUR
+148352,Gaku Shibasaki,Kashima Antlers,3134,M,"['MC', 'DM']",62.0,175,1992-05-28T00:00:00+00:00,Right,Japan,,325000.0,EUR
+831954,Takeru Kishimoto,Gamba Osaka,3138,D,['DR'],66.0,174,1997-07-16T00:00:00+00:00,Right,Japan,,480000.0,EUR
+2266762,Taiki Tono,Gamba Osaka,3138,F,,61.0,172,2007-06-02T00:00:00+00:00,Right,Japan,,,
+2245582,Kanta Sekitomi,Yokohama F. Marinos,3137,D,['DL'],,177,2005-10-23T00:00:00+00:00,Left,Japan,2028-06-30,135000.0,EUR
+1048547,Masaki Yumiba,Shimizu S-Pulse,3133,M,"['MC', 'DM']",66.0,173,2002-05-13T00:00:00+00:00,Left,Japan,,335000.0,EUR
+2449919,Shun Matsuda,Fagiano Okayama,34034,G,,73.0,185,2007-05-22T00:00:00+00:00,Right,Japan,2029-06-30,,
+905355,Taichi Yamasaki,Sanfrecce Hiroshima,3135,D,['DC'],76.0,185,2001-01-08T00:00:00+00:00,Right,Japan,,265000.0,EUR
+242205,Matheus Vidotto,Tokyo Verdy,3139,G,['GK'],82.0,190,1993-04-10T00:00:00+00:00,Right,Brazil,,360000.0,EUR
+873412,Goto Masaaki,V-Varen Nagasaki,38154,G,['GK'],83.0,190,1994-05-24T00:00:00+00:00,Right,Japan,,580000.0,EUR
+925943,Yuta Goke,Vissel Kobe,3146,M,"['MR', 'ST']",74.0,183,1999-06-10T00:00:00+00:00,Right,Japan,,870000.0,EUR
+1968006,Yudai Shimamoto,Shimizu S-Pulse,3133,M,['MC'],,180,2006-10-26T00:00:00+00:00,Right,Japan,2029-06-30,315000.0,EUR
+905354,Seiya Baba,Kashiwa Reysol,3140,D,"['DC', 'DR', 'MC', 'DM']",76.0,181,2001-10-24T00:00:00+00:00,Right,Japan,2029-06-30,545000.0,EUR
+1218179,Yuma Tsujioka,Avispa Fukuoka,3143,D,"['DC', 'DL']",,183,2001-12-09T00:00:00+00:00,Left,Japan,,325000.0,EUR
+1820626,Shosei Usui,Avispa Fukuoka,3143,F,['ST'],,183,2001-07-20T00:00:00+00:00,Right,Japan,2027-06-30,405000.0,EUR
+1028346,Nanasei Iino,Vissel Kobe,3146,D,"['MR', 'RW', 'DR']",65.0,173,1996-10-02T00:00:00+00:00,Right,Japan,,290000.0,EUR
+1019705,Yan Matheus,Kashima Antlers,3134,M,['RW'],73.0,175,1998-09-04T00:00:00+00:00,Left,Brazil,,1500000.0,EUR
+888462,Daiki Miya,Avispa Fukuoka,3143,D,"['DC', 'DL']",82.0,186,1996-04-01T00:00:00+00:00,Left,Japan,,290000.0,EUR
+1149760,Wataru Harada,Kashiwa Reysol,3140,D,"['DR', 'DC']",,178,1996-07-22T00:00:00+00:00,Right,Japan,2028-06-30,650000.0,EUR
+1020416,Shota Fujio,Kashiwa Reysol,3140,F,['ST'],67.0,184,2001-05-02T00:00:00+00:00,Right,Japan,,840000.0,EUR
+489178,Rikuto Hirose,Kashima Antlers,3134,D,"['DR', 'LW']",63.0,176,1995-09-23T00:00:00+00:00,Right,Japan,,440000.0,EUR
+152002,Kento Hashimoto,FC Tokyo,3147,M,"['MC', 'DM']",74.0,181,1993-08-16T00:00:00+00:00,Right,Japan,2027-06-30,580000.0,EUR
+1020235,Halls,Kyoto Sanga FC,3149,G,['GK'],88.0,198,1999-06-17T00:00:00+00:00,Right,Brazil,2027-06-30,420000.0,EUR
+1016930,Dieguinho,Shimizu S-Pulse,3133,M,"['MC', 'DM', 'DR']",,175,1995-10-31T00:00:00+00:00,Right,Brazil,,970000.0,EUR
+829764,Lucas Fernandes,Cerezo Osaka,3141,M,['RW'],70.0,174,1994-04-24T00:00:00+00:00,Right,Brazil,,925000.0,EUR
+832980,Arai Ikki,V-Varen Nagasaki,38154,D,"['DC', 'DR']",75.0,185,1993-11-08T00:00:00+00:00,Right,Japan,,300000.0,EUR
+792070,Takuma Nishimura,Machida Zelvia,44409,F,['AM'],70.0,178,1996-10-22T00:00:00+00:00,Right,Japan,,775000.0,EUR
+1020460,Shun Ayukawa,Sanfrecce Hiroshima,3135,F,['ST'],61.0,164,2001-09-15T00:00:00+00:00,Right,Japan,,170000.0,EUR
+224970,Ryohei Shirasaki,Machida Zelvia,44409,M,"['MC', 'DM']",70.0,181,1993-05-18T00:00:00+00:00,Right,Japan,,285000.0,EUR
+34984,Yutaka Yoshida,Shimizu S-Pulse,3133,D,['DL'],69.0,168,1990-02-17T00:00:00+00:00,Both,Japan,,91000.0,EUR
+34639,Yuto Nagatomo,FC Tokyo,3147,D,"['DR', 'DL']",68.0,169,1986-09-12T00:00:00+00:00,Both,Japan,2027-06-30,92000.0,EUR
+925987,Kanya Fujimoto,Tokyo Verdy,3139,M,"['AM', 'MC']",66.0,176,1999-07-01T00:00:00+00:00,Left,Japan,2027-06-30,1900000.0,EUR
+19265,Akihiro Ienaga,Kawasaki Frontale,5127,M,['RW'],70.0,173,1986-06-13T00:00:00+00:00,Left,Japan,,81000.0,EUR
+1103193,Ten Miyagi,Kawasaki Frontale,5127,F,['LW'],,176,2001-06-02T00:00:00+00:00,Right,Japan,2027-06-30,335000.0,EUR
+309464,Kazuki Kozuka,Shimizu S-Pulse,3133,M,"['MC', 'AM', 'DM']",64.0,172,1994-08-02T00:00:00+00:00,Right,Japan,,220000.0,EUR
+155790,Naomichi Ueda,Kashima Antlers,3134,D,['DC'],77.0,186,1994-10-24T00:00:00+00:00,Right,Japan,,1000000.0,EUR
+1101156,Kento Tachibanada,Kawasaki Frontale,5127,M,"['MC', 'DM']",,168,1998-05-29T00:00:00+00:00,Right,Japan,2028-06-30,1100000.0,EUR
+882205,Shion Homma,FC Tokyo,3147,M,['LW'],,164,2000-08-09T00:00:00+00:00,Right,Japan,,410000.0,EUR
+832780,Kosuke Saito,Tokyo Verdy,3139,M,"['MC', 'DM', 'AM']",55.0,167,1997-06-16T00:00:00+00:00,Right,Japan,,740000.0,EUR
+873474,Onaga Hijiri,V-Varen Nagasaki,38154,M,"['ML', 'MR']",65.0,172,1995-02-23T00:00:00+00:00,Left,Japan,2027-06-30,585000.0,EUR
+1154636,Kein Sato,FC Tokyo,3147,M,['MR'],,178,2001-07-11T00:00:00+00:00,Right,Japan,2028-06-30,1100000.0,EUR
+307332,Kinoshita Kosuke,Shimizu S-Pulse,3133,F,['ST'],72.0,188,1994-10-03T00:00:00+00:00,Right,Japan,,600000.0,EUR
+901742,Jean Patric,Vissel Kobe,3146,F,"['LW', 'ML']",65.0,175,1997-05-14T00:00:00+00:00,Both,Brazil,,335000.0,EUR
+1028308,Fuki Yamada,FC Tokyo,3147,M,['RW'],,180,2001-07-10T00:00:00+00:00,Left,Japan,,540000.0,EUR
+1149697,Maaya Sako,Tokyo Verdy,3139,D,['DC'],,193,2002-12-02T00:00:00+00:00,Left,Japan,,52000.0,EUR
+1184036,Hiroto Taniguchi,Kawasaki Frontale,5127,D,"['DC', 'DL']",,181,1999-09-30T00:00:00+00:00,Right,Japan,,750000.0,EUR
+1027864,Solomon Sakuragawa,Cerezo Osaka,3141,F,['ST'],,190,2001-08-04T00:00:00+00:00,Right,Japan,,775000.0,EUR
+2151688,Shin Miidera,Yokohama F. Marinos,3137,M,['LW'],,172,2010-04-02T00:00:00+00:00,Left,Japan,,,
+1027915,Ken Yamura,JEF United Chiba,3144,F,['ST'],67.0,168,1997-06-09T00:00:00+00:00,Right,Japan,,365000.0,EUR
+2398867,Ueki Hayate,Urawa Red Diamonds,3145,M,['DM'],,173,2003-10-11T00:00:00+00:00,Left,Japan,,145000.0,EUR
+180515,Rubén Blanco,Yokohama F. Marinos,3137,G,['GK'],70.0,188,1995-07-25T00:00:00+00:00,Right,Spain,,730000.0,EUR
+1020466,Ayumu Ohata,Cerezo Osaka,3141,D,['DL'],63.0,168,2001-04-27T00:00:00+00:00,Left,Japan,2028-06-30,480000.0,EUR
+2058181,Yosuke Uchida,Tokyo Verdy,3139,M,['MR'],63.0,167,2002-08-20T00:00:00+00:00,Right,Japan,2027-06-30,245000.0,EUR
+1101107,Yota Sato,Nagoya Grampus,3136,D,"['DC', 'DL']",,183,1998-09-10T00:00:00+00:00,Right,Japan,2027-06-30,460000.0,EUR
+1597185,Alexandre Pisano,Nagoya Grampus,3136,G,['GK'],,196,2006-01-10T00:00:00+00:00,Right,Japan,2028-06-30,250000.0,EUR
+1396130,Yuto Ozeki,Kawasaki Frontale,5127,M,['MC'],,178,2005-02-06T00:00:00+00:00,Right,Japan,2029-06-30,720000.0,EUR
+1172506,Shuhei Mizoguchi,Tokyo Verdy,3139,D,['DL'],,174,2004-02-13T00:00:00+00:00,Left,Japan,2027-06-30,195000.0,EUR
+1105116,Yoshiki Torikai,Mito Hollyhock,21901,M,"['RW', 'AM', 'MR']",,165,1998-08-01T00:00:00+00:00,Right,Japan,,670000.0,EUR
+964307,Sang-Ho Na,Fagiano Okayama,34034,F,['AM'],,173,1996-08-12T00:00:00+00:00,Right,South Korea,,955000.0,EUR
+1068668,Hidehiro Sugai,Shimizu S-Pulse,3133,D,"['DR', 'DL']",,172,1998-10-27T00:00:00+00:00,Right,Japan,,705000.0,EUR
+873317,Iwasaki Yuto,V-Varen Nagasaki,38154,F,"['ML', 'LW', 'AM']",69.0,172,1998-06-11T00:00:00+00:00,Right,Japan,,670000.0,EUR
+489180,Ado Onaiwu,Urawa Red Diamonds,3145,F,"['ST', 'LW']",74.0,180,1995-11-08T00:00:00+00:00,Right,Japan,,620000.0,EUR
+1126258,Rio Nitta,Yokohama F. Marinos,3137,F,['ST'],,174,2003-04-10T00:00:00+00:00,Right,Japan,,195000.0,EUR
+902942,Du-jae Won,Shimizu S-Pulse,3133,M,"['MC', 'DM']",81.0,187,1997-11-18T00:00:00+00:00,Right,South Korea,,825000.0,EUR
+305964,Dean David,Yokohama F. Marinos,3137,F,['ST'],,184,1996-03-14T00:00:00+00:00,Left,Israel,2027-06-30,1200000.0,EUR
+314034,Yuki Nogami,Nagoya Grampus,3136,D,"['DC', 'DR', 'MR']",70.0,180,1991-04-20T00:00:00+00:00,Right,Japan,2027-01-31,135000.0,EUR
+792157,Ataru Esaka,Fagiano Okayama,34034,F,['AM'],67.0,175,1992-05-31T00:00:00+00:00,Right,Japan,,470000.0,EUR
+805712,Filip Uremović,Kawasaki Frontale,5127,D,['DC'],,186,1997-02-11T00:00:00+00:00,Right,Croatia,2028-06-30,1900000.0,EUR
+69416,Oriol Romeu,Avispa Fukuoka,3143,M,"['MC', 'DM']",,182,1991-09-23T00:00:00+00:00,Right,Spain,,370000.0,EUR
+994466,Jonathan Junior,V-Varen Nagasaki,38154,F,['ST'],,173,1999-04-28T00:00:00+00:00,Right,Brazil,2027-06-30,240000.0,EUR
+1021010,Daiya Tono,Yokohama F. Marinos,3137,M,"['MC', 'LW', 'AM']",66.0,165,1999-03-14T00:00:00+00:00,Right,Japan,,620000.0,EUR
+873322,Keiya Sento,Machida Zelvia,44409,M,"['MC', 'AM']",64.0,171,1994-12-29T00:00:00+00:00,Right,Japan,,485000.0,EUR
+1488426,Sen Takagi,Shimizu S-Pulse,3133,D,['DC'],69.0,173,2002-03-14T00:00:00+00:00,Right,Japan,,365000.0,EUR
+489262,Eiichi Katayama,Urawa Red Diamonds,3145,D,"['DR', 'DL']",75.0,180,1991-11-30T00:00:00+00:00,Right,Japan,,77000.0,EUR
+1470580,Rei Ieizumi,Mito Hollyhock,21901,D,['DC'],,185,2000-01-20T00:00:00+00:00,Right,Japan,,535000.0,EUR
+1210152,Atsushi Inagaki,Urawa Red Diamonds,3145,D,,,177,2005-03-03T00:00:00+00:00,Right,Japan,,52000.0,EUR
+925905,Kai Shibato,Tokyo Verdy,3139,M,"['MC', 'DM']",70.0,180,1995-11-24T00:00:00+00:00,Right,Japan,,265000.0,EUR
+281185,Yusuke Kobayashi,JEF United Chiba,3144,M,"['MC', 'DM']",60.0,172,1994-10-23T00:00:00+00:00,Right,Japan,,155000.0,EUR
+863968,Hirokazu Ishihara,FC Tokyo,3147,D,"['DR', 'MR', 'RW']",63.0,169,1999-02-26T00:00:00+00:00,Right,Japan,,825000.0,EUR
+358988,Kento Misao,Kashima Antlers,3134,M,"['MC', 'DM']",71.0,180,1996-04-16T00:00:00+00:00,Right,Japan,,745000.0,EUR
+795034,Matheus Sávio,Urawa Red Diamonds,3145,M,"['LW', 'ML']",66.0,172,1997-04-15T00:00:00+00:00,Right,Brazil,2027-06-30,1300000.0,EUR
+146970,Mitchell Duke,Machida Zelvia,44409,F,['ST'],84.0,186,1991-01-18T00:00:00+00:00,Right,Australia,,260000.0,EUR
+1470574,Masaru Hidaka,JEF United Chiba,3144,D,['DL'],,168,1995-03-14T00:00:00+00:00,Left,Japan,,430000.0,EUR
+822546,Oh Se-Hun,Shimizu S-Pulse,3133,F,['ST'],,194,1999-01-15T00:00:00+00:00,Left,South Korea,,1000000.0,EUR
+905346,Rei Hirakawa,Tokyo Verdy,3139,M,"['MC', 'DM', 'AM']",72.0,177,2000-04-20T00:00:00+00:00,Right,Japan,,630000.0,EUR
+1838671,Soichiro Mori,Fagiano Okayama,34034,D,['MR'],68.0,181,2007-06-29T00:00:00+00:00,Right,Japan,2027-06-30,310000.0,EUR
+976349,Noah Kenshin Browne,Fagiano Okayama,34034,M,['ST'],74.0,189,2001-05-27T00:00:00+00:00,Left,Japan,2028-06-30,260000.0,EUR
+905349,Shimpei Fukuoka,Kyoto Sanga FC,3149,M,['MC'],65.0,170,2000-06-27T00:00:00+00:00,Right,Japan,2028-06-30,720000.0,EUR
+1083801,Ryotaro Tsunoda,Yokohama F. Marinos,3137,D,['DC'],,183,1999-06-27T00:00:00+00:00,Left,Japan,2028-06-30,480000.0,EUR
+1028236,Shuhei Tokumoto,Nagoya Grampus,3136,D,"['DL', 'ML', 'DC']",70.0,170,1995-09-12T00:00:00+00:00,Left,Japan,,390000.0,EUR
+1172473,Asahi Sasaki,Kawasaki Frontale,5127,D,"['DC', 'DL', 'DR']",,179,2000-01-26T00:00:00+00:00,Right,Japan,2029-06-30,965000.0,EUR
+866417,Diego Pituca,V-Varen Nagasaki,38154,M,"['MC', 'DM']",69.0,175,1992-08-15T00:00:00+00:00,Left,Brazil,,580000.0,EUR
+831923,Keisuke Osako,Sanfrecce Hiroshima,3135,G,['GK'],77.0,188,1999-07-28T00:00:00+00:00,Right,Japan,,2200000.0,EUR
+1031658,Javier Hernández,Cerezo Osaka,3141,D,"['DL', 'DC']",,181,1998-05-02T00:00:00+00:00,Left,Spain,2027-06-30,1900000.0,EUR
+1125633,Rin Mito,Gamba Osaka,3138,M,"['MC', 'DM']",,180,2002-02-12T00:00:00+00:00,Left,Japan,2029-06-30,380000.0,EUR
+836076,Yuta Kamiya,Fagiano Okayama,34034,M,"['MC', 'DM']",67.0,176,1997-04-24T00:00:00+00:00,Right,Japan,,370000.0,EUR
+34853,Shinji Kagawa,Cerezo Osaka,3141,M,"['MC', 'DM', 'AM']",68.0,175,1989-03-17T00:00:00+00:00,Both,Japan,,140000.0,EUR
+1117432,Yota Komi,Cerezo Osaka,3141,M,['LW'],67.0,169,2002-08-11T00:00:00+00:00,Right,Japan,2027-06-30,560000.0,EUR
+982580,Yuya Asano,Nagoya Grampus,3136,M,"['AM', 'MR', 'ST']",,173,1997-02-17T00:00:00+00:00,Left,Japan,,460000.0,EUR
+146089,Ryo Miyaichi,Yokohama F. Marinos,3137,F,"['RW', 'LW']",71.0,183,1992-12-14T00:00:00+00:00,Both,Japan,,190000.0,EUR
+2691671,Yuto Tsuji,Shimizu S-Pulse,3133,M,,65.0,170,2005-12-29T00:00:00+00:00,Right,Japan,,,
+1117308,Yusuke Ishida,Kyoto Sanga FC,3149,D,"['DC', 'DR', 'DL']",76.0,176,2002-11-11T00:00:00+00:00,Right,Japan,,490000.0,EUR
+24084,Shu Kurata,Gamba Osaka,3138,M,"['MC', 'LW']",68.0,172,1988-11-26T00:00:00+00:00,Right,Japan,2027-06-30,78000.0,EUR
+1218317,George Onaiwu,Yokohama F. Marinos,3137,M,['MR'],64.0,168,2000-11-11T00:00:00+00:00,Right,Japan,2027-06-30,290000.0,EUR
+900252,Matheus Leiria,Mito Hollyhock,21901,M,['ST'],,179,1995-01-22T00:00:00+00:00,Right,Brazil,,145000.0,EUR
+1201445,Mitsuki Hidaka,Vissel Kobe,3146,M,['MC'],,176,2003-05-11T00:00:00+00:00,Right,Japan,,160000.0,EUR
+814724,Thiago Santana,V-Varen Nagasaki,38154,F,['ST'],79.0,184,1993-02-04T00:00:00+00:00,Left,Brazil,,680000.0,EUR
+1499637,Kenshin Yuba,Kashiwa Reysol,3140,M,['MR'],65.0,163,2000-10-12T00:00:00+00:00,Left,Japan,,540000.0,EUR
+873016,Towa Yamane,Fagiano Okayama,34034,M,"['MR', 'ML']",67.0,167,1999-02-05T00:00:00+00:00,Right,Japan,,520000.0,EUR
+1035082,Kazuki Fujimoto,Avispa Fukuoka,3143,M,"['ML', 'LW']",,179,1998-07-29T00:00:00+00:00,Right,Japan,,515000.0,EUR
+974293,Takumi Nakamura,Cerezo Osaka,3141,D,"['DR', 'DC']",,177,2001-03-16T00:00:00+00:00,Right,Japan,,210000.0,EUR
+2686779,Yuan Iwamoto,Vissel Kobe,3146,M,,72.0,178,2006-04-15T00:00:00+00:00,Right,Japan,,,
+1645837,Maceió,Kyoto Sanga FC,3149,F,['LW'],,173,2003-07-14T00:00:00+00:00,Right,Brazil,2027-06-30,360000.0,EUR
+1417920,Pedro Romano,Kawasaki Frontale,5127,D,['DC'],,189,2000-11-26T00:00:00+00:00,Right,Brazil,,420000.0,EUR
+865050,Daichi Ishikawa,JEF United Chiba,3144,F,['ST'],73.0,178,1996-02-22T00:00:00+00:00,Right,Japan,,570000.0,EUR
+24281,Shusaku Nishikawa,Urawa Red Diamonds,3145,G,['GK'],81.0,183,1986-06-18T00:00:00+00:00,Left,Japan,,97000.0,EUR
+1125656,Yudai Kimura,Nagoya Grampus,3136,F,"['ST', 'AM']",,184,2001-02-28T00:00:00+00:00,Right,Japan,,770000.0,EUR
+1936651,Shimon Kobayashi,Sanfrecce Hiroshima,3135,M,,,167,2008-01-23T00:00:00+00:00,Right,Japan,2029-06-30,195000.0,EUR
+1173281,Kyo Sato,Kyoto Sanga FC,3149,D,['DL'],,168,2000-03-21T00:00:00+00:00,Right,Japan,,615000.0,EUR
+1123527,Eli Adams,Gamba Osaka,3138,M,['RW'],,183,2002-03-12T00:00:00+00:00,Left,Australia,,705000.0,EUR
+1141587,Hidemasa Koda,Nagoya Grampus,3136,M,['MR'],58.0,166,2003-10-02T00:00:00+00:00,Right,Japan,,430000.0,EUR
+1036233,Kento Hashimoto,FC Tokyo,3147,D,"['DL', 'ML']",62.0,173,1999-12-08T00:00:00+00:00,Left,Japan,,515000.0,EUR
+873457,Yudai Konishi,Kashiwa Reysol,3140,M,"['MC', 'DM']",66.0,169,1998-04-18T00:00:00+00:00,Left,Japan,2027-06-30,475000.0,EUR
+925965,Yoneda Shunya,V-Varen Nagasaki,38154,M,['DL'],68.0,173,1995-11-05T00:00:00+00:00,Both,Japan,,455000.0,EUR
+1104930,Kaito Taniguchi,Mito Hollyhock,21901,M,"['ST', 'ML']",,177,1995-09-07T00:00:00+00:00,Right,Japan,2027-06-30,390000.0,EUR
+1124856,So Kawahara,Kawasaki Frontale,5127,M,"['MC', 'DM']",65.0,169,1998-03-13T00:00:00+00:00,Right,Japan,2027-06-30,865000.0,EUR
+834080,Tashiro Masaya,Avispa Fukuoka,3143,D,['DC'],,185,1993-05-01T00:00:00+00:00,Right,Japan,,290000.0,EUR
+994613,Teppei Oka,Avispa Fukuoka,3143,D,"['DC', 'DR']",,185,2001-09-06T00:00:00+00:00,Both,Japan,2027-06-30,470000.0,EUR
+1473375,Issei Kumatoriya,Tokyo Verdy,3139,F,['AM'],,164,2003-02-14T00:00:00+00:00,Right,Japan,2027-06-30,190000.0,EUR
+1096170,Daniel Hall,JEF United Chiba,3144,D,['DC'],,184,1999-06-14T00:00:00+00:00,Right,Australia,,670000.0,EUR
+1016964,Itsuki Someno,Tokyo Verdy,3139,F,['ST'],63.0,181,2001-09-12T00:00:00+00:00,Right,Japan,,680000.0,EUR
+791402,Mutsuki Kato,Sanfrecce Hiroshima,3135,F,['AM'],69.0,178,1997-08-06T00:00:00+00:00,Right,Japan,,825000.0,EUR
+793187,Issam Jebali,Gamba Osaka,3138,M,"['ST', 'AM']",84.0,189,1991-12-25T00:00:00+00:00,Both,Tunisia,,205000.0,EUR
+358980,Ryoma Watanabe,Urawa Red Diamonds,3145,M,"['AM', 'MC']",70.0,176,1996-10-02T00:00:00+00:00,Both,Japan,2028-06-30,1300000.0,EUR
+873215,Takumu Kawamura,Sanfrecce Hiroshima,3135,M,"['MC', 'DM', 'AM']",65.0,183,1999-08-28T00:00:00+00:00,Left,Japan,,1100000.0,EUR
+790962,Ryo Hatsuse,Gamba Osaka,3138,D,['DL'],64.0,178,1997-07-10T00:00:00+00:00,Both,Japan,2028-06-30,650000.0,EUR
+1184064,Sho Omori,Kashima Antlers,3134,D,['DL'],70.0,177,1999-08-19T00:00:00+00:00,Left,Japan,,650000.0,EUR
+1801859,Rikuto Ishio,JEF United Chiba,3144,D,['DL'],72.0,181,2001-08-07T00:00:00+00:00,Right,Japan,,545000.0,EUR
+990149,Emerson Deocleciano,V-Varen Nagasaki,38154,M,"['LW', 'ML']",69.0,174,1999-07-27T00:00:00+00:00,Right,Brazil,2026-12-31,590000.0,EUR
+873321,Kota Watanabe,Vissel Kobe,3146,M,"['MC', 'DM']",61.0,165,1998-10-18T00:00:00+00:00,Right,Japan,,830000.0,EUR
+2167770,Shohei Takemoto,Avispa Fukuoka,3143,M,,72.0,176,2008-05-24T00:00:00+00:00,Right,Japan,,,
+2120850,Sonosuke Sato,Avispa Fukuoka,3143,F,['AM'],70.0,175,2003-07-06T00:00:00+00:00,Right,Japan,,135000.0,EUR
+1106542,Ryoga Sato,Fagiano Okayama,34034,M,"['ST', 'AM']",,178,1999-02-20T00:00:00+00:00,Right,Japan,2027-06-30,580000.0,EUR
+2050270,Shuta Sasa,Urawa Red Diamonds,3145,D,['DL'],,183,2006-08-31T00:00:00+00:00,Right,Japan,,295000.0,EUR
+1215291,Sota Koshimichi,Sanfrecce Hiroshima,3135,M,['MR'],67.0,180,2004-04-03T00:00:00+00:00,Right,Japan,2028-06-30,335000.0,EUR
+873022,Daiki Suga,Sanfrecce Hiroshima,3135,M,['ML'],69.0,171,1998-09-10T00:00:00+00:00,Left,Japan,,535000.0,EUR
+151075,Hayato Nakama,Kashiwa Reysol,3140,M,"['ML', 'LW', 'AM']",,170,1992-05-16T00:00:00+00:00,Right,Japan,,230000.0,EUR
+1587927,Hugo Leonardo,Mito Hollyhock,21901,M,['MC'],,175,2004-01-19T00:00:00+00:00,Right,Brazil,2027-06-30,,
+1172475,Yuta Miyamoto,Urawa Red Diamonds,3145,D,"['DC', 'DR']",,170,1999-12-15T00:00:00+00:00,Right,Japan,,725000.0,EUR
+979205,Jun Nishikawa,Fagiano Okayama,34034,M,"['AM', 'MC']",70.0,180,2002-02-21T00:00:00+00:00,Left,Japan,,710000.0,EUR
+1028315,Rui Sueyoshi,Fagiano Okayama,34034,M,"['ML', 'MR']",62.0,166,1996-07-26T00:00:00+00:00,Right,Japan,2028-06-30,145000.0,EUR
+1185277,Jumpei Hayakawa,Urawa Red Diamonds,3145,M,['AM'],,163,2005-12-05T00:00:00+00:00,Right,Japan,2027-06-30,330000.0,EUR
+48345,Kyohei Noborizato,Cerezo Osaka,3141,D,['DL'],69.0,168,1990-11-13T00:00:00+00:00,Left,Japan,2027-06-30,95000.0,EUR
+1029591,Boniface Nduka,JEF United Chiba,3144,D,['DC'],89.0,183,1996-02-15T00:00:00+00:00,Right,Japan,2027-06-30,380000.0,EUR
+1477370,Kaoru Yamawaki,Avispa Fukuoka,3143,D,['DR'],71.0,179,2000-12-17T00:00:00+00:00,Right,Japan,,105000.0,EUR
+1117301,Kenta Inoue,Shimizu S-Pulse,3133,M,"['MR', 'LW']",,171,1998-07-23T00:00:00+00:00,Right,Japan,2027-06-30,380000.0,EUR
+905357,Toichi Suzuki,Yokohama F. Marinos,3137,D,"['ML', 'DL']",61.0,165,2000-05-30T00:00:00+00:00,Left,Japan,,245000.0,EUR
+135651,Jordy Croux,Yokohama F. Marinos,3137,M,"['RW', 'MR']",70.0,171,1994-01-15T00:00:00+00:00,Left,Belgium,,360000.0,EUR
+2058175,Sung-jun Yoon,Kyoto Sanga FC,3149,M,['MC'],,170,2007-05-04T00:00:00+00:00,Right,South Korea,2029-06-30,420000.0,EUR
+1035571,Takumi Mase,Mito Hollyhock,21901,D,"['DR', 'MR']",,175,1998-05-02T00:00:00+00:00,Right,Japan,2028-06-30,540000.0,EUR
+987353,Katsuhiro Nakayama,Nagoya Grampus,3136,M,"['ML', 'MR', 'RW']",,180,1996-07-17T00:00:00+00:00,Right,Japan,,635000.0,EUR
+1474935,Hinata Yamauchi,Kashiwa Reysol,3140,F,['AM'],,170,2001-05-30T00:00:00+00:00,Right,Japan,,245000.0,EUR
+831703,Kazunari Ichimi,Tokyo Verdy,3139,F,['ST'],77.0,183,1997-11-10T00:00:00+00:00,Right,Japan,,365000.0,EUR
+1184073,Sota Miura,Kawasaki Frontale,5127,D,['DL'],,178,2000-09-07T00:00:00+00:00,Left,Japan,2028-06-30,1400000.0,EUR
+873035,Riku Yamada,V-Varen Nagasaki,38154,M,"['MC', 'DM']",72.0,176,1998-04-15T00:00:00+00:00,Right,Japan,,270000.0,EUR
+873028,Takuya Uchida,Nagoya Grampus,3136,M,"['DR', 'DC', 'MR', 'MC']",68.0,177,1998-06-02T00:00:00+00:00,Right,Japan,,360000.0,EUR
+353742,Yamasaki Ryogo,V-Varen Nagasaki,38154,F,['ST'],75.0,187,1992-09-20T00:00:00+00:00,Left,Japan,2027-06-30,110000.0,EUR
+981073,Kazuya Konno,Kawasaki Frontale,5127,M,['AM'],,161,1997-07-11T00:00:00+00:00,Left,Japan,,730000.0,EUR
+1866824,Shion Nakayama,Tokyo Verdy,3139,F,,,170,2007-10-16T00:00:00+00:00,Right,Japan,2029-06-30,155000.0,EUR
+831926,Miki Yamane,Urawa Red Diamonds,3145,D,['DR'],69.0,178,1993-12-22T00:00:00+00:00,Right,Japan,,825000.0,EUR
+387038,Kei Koizumi,Shimizu S-Pulse,3133,M,"['MC', 'DM']",70.0,172,1995-04-19T00:00:00+00:00,Right,Japan,,595000.0,EUR
+1499667,Ryosuke Shirai,Tokyo Verdy,3139,F,['ST'],,183,2005-05-17T00:00:00+00:00,Right,Japan,2027-06-30,130000.0,EUR
+1462151,Keisuke Tsukui,Kashima Antlers,3134,D,['DR'],,180,2004-05-21T00:00:00+00:00,Right,Japan,,335000.0,EUR
+873067,Teruki Hara,Nagoya Grampus,3136,D,"['DR', 'DC']",70.0,178,1998-07-30T00:00:00+00:00,Right,Japan,,620000.0,EUR
+1028331,Asahi Uenaka,Gamba Osaka,3138,M,"['AM', 'ST']",,179,2001-11-01T00:00:00+00:00,Right,Japan,,555000.0,EUR
+873031,Ryuta Koike,Kashima Antlers,3134,D,['DR'],63.0,169,1995-08-29T00:00:00+00:00,Right,Japan,,470000.0,EUR
+983656,Fuchi Honda,Kyoto Sanga FC,3149,M,['ST'],,170,2001-05-10T00:00:00+00:00,Right,Japan,,315000.0,EUR
+791253,Teruhito Nakagawa,FC Tokyo,3147,F,"['RW', 'ST']",57.0,161,1992-07-27T00:00:00+00:00,Right,Japan,,430000.0,EUR
+790987,Taiki Hirato,Shimizu S-Pulse,3133,M,['MC'],68.0,177,1997-04-18T00:00:00+00:00,Right,Japan,,825000.0,EUR
+1470612,Inoue Ryota,Tokyo Verdy,3139,D,"['DC', 'DL']",,186,2000-07-25T00:00:00+00:00,Right,Japan,,375000.0,EUR
+309728,Maeda Naoki,Sanfrecce Hiroshima,3135,F,"['RW', 'AM']",66.0,175,1994-11-17T00:00:00+00:00,Left,Japan,2027-06-30,535000.0,EUR
+1089866,Norman Campbell,V-Varen Nagasaki,38154,M,['RW'],,175,1999-11-24T00:00:00+00:00,Right,Jamaica,,775000.0,EUR
+34798,Kota Mizunuma,Urawa Red Diamonds,3145,M,['RW'],72.0,176,1990-02-22T00:00:00+00:00,Right,Japan,,235000.0,EUR
+255201,Eduardo,V-Varen Nagasaki,38154,D,['DC'],77.0,186,1993-04-27T00:00:00+00:00,Left,Brazil,,360000.0,EUR
+873326,Tomoya Wakahara,Kashiwa Reysol,3140,G,['GK'],79.0,185,1999-12-28T00:00:00+00:00,Right,Japan,,330000.0,EUR
+792613,Asahi Masuyama,V-Varen Nagasaki,38154,M,"['DR', 'MR']",72.0,173,1997-01-29T00:00:00+00:00,Right,Japan,2027-06-30,485000.0,EUR
+2449917,Haruki Hayashi,Kashima Antlers,3134,M,,73.0,177,2003-12-05T00:00:00+00:00,Right,Japan,2029-06-30,265000.0,EUR
+831844,Yuki Kakita,Kashiwa Reysol,3140,F,['ST'],78.0,187,1997-07-14T00:00:00+00:00,Right,Japan,2027-06-30,620000.0,EUR
+1650472,Soma Meshino,Tokyo Verdy,3139,M,['MC'],,167,2001-05-20T00:00:00+00:00,Right,Japan,,130000.0,EUR
+155813,Takuya Kida,Yokohama F. Marinos,3137,M,"['MC', 'DM']",63.0,169,1993-08-23T00:00:00+00:00,Right,Japan,,640000.0,EUR
+1002481,Shinya Nakano,Gamba Osaka,3138,D,"['DL', 'DC']",49.0,173,2003-08-17T00:00:00+00:00,Left,Japan,,290000.0,EUR
+2441542,Ryuki Osa,Kawasaki Frontale,5127,F,,64.0,168,2007-10-13T00:00:00+00:00,Right,Japan,2028-06-30,180000.0,EUR
+2166938,Renji Hidano,Urawa Red Diamonds,3145,F,['ST'],,181,2003-12-01T00:00:00+00:00,Left,Japan,,320000.0,EUR
+873064,Daiya Maekawa,Vissel Kobe,3146,G,['GK'],86.0,191,1994-09-08T00:00:00+00:00,Right,Japan,,750000.0,EUR
+873034,Akinari Kawazura,Mito Hollyhock,21901,D,"['DC', 'DL']",75.0,183,1994-05-03T00:00:00+00:00,Left,Japan,2027-06-30,275000.0,EUR
+979864,Indio,JEF United Chiba,3144,M,"['MC', 'DM']",,182,1999-08-27T00:00:00+00:00,Right,Brazil,,720000.0,EUR
+1027933,Yuan Matsuhashi,Tokyo Verdy,3139,M,['AM'],60.0,172,2001-10-27T00:00:00+00:00,Right,Japan,,435000.0,EUR
+24544,Shun Nagasawa,Kyoto Sanga FC,3149,F,['ST'],82.0,192,1988-08-25T00:00:00+00:00,Right,Japan,,48000.0,EUR
+925827,Temma Matsuda,Kyoto Sanga FC,3149,F,"['LW', 'MC']",62.0,164,1995-06-11T00:00:00+00:00,Right,Japan,,475000.0,EUR
+1000324,Kaito Suzuki,Tokyo Verdy,3139,D,"['DC', 'DR']",72.0,182,2002-08-25T00:00:00+00:00,Right,Japan,,380000.0,EUR
+1218307,Hiiro Komori,Urawa Red Diamonds,3145,F,['ST'],,177,2000-08-06T00:00:00+00:00,Right,Japan,2027-06-30,870000.0,EUR
+1132177,Haruki Arai,Kyoto Sanga FC,3149,M,['ML'],,168,1998-04-12T00:00:00+00:00,Right,Japan,,580000.0,EUR
+831851,Ryuji Izumi,Nagoya Grampus,3136,F,"['AM', 'ML']",72.0,173,1993-11-06T00:00:00+00:00,Right,Japan,,425000.0,EUR
+1173287,Taichi Kikuchi,Nagoya Grampus,3136,M,"['AM', 'DL']",,160,1999-05-07T00:00:00+00:00,Left,Japan,,310000.0,EUR
+155817,Hiroki Akino,Avispa Fukuoka,3143,M,"['MC', 'DM']",65.0,176,1994-10-08T00:00:00+00:00,Left,Japan,,240000.0,EUR
+499426,Sawada Takashi,V-Varen Nagasaki,38154,M,"['LW', 'RW']",63.0,170,1991-05-26T00:00:00+00:00,Right,Japan,,52000.0,EUR
+2171319,Arata Okamoto,Gamba Osaka,3138,M,,,173,2009-12-15T00:00:00+00:00,,Japan,,,
+2084762,Minato Yoshida,Kashima Antlers,3134,F,['ST'],,171,2008-07-15T00:00:00+00:00,Right,Japan,2030-06-30,,
+2441712,Shota Yamashita,Mito Hollyhock,21901,F,,73.0,173,2008-02-29T00:00:00+00:00,Right,Japan,2029-06-30,110000.0,EUR
+358958,Tokuma Suzuki,Gamba Osaka,3138,M,"['MC', 'DM']",64.0,168,1997-03-12T00:00:00+00:00,Right,Japan,,755000.0,EUR
+795815,Takaaki Shichi,Kyoto Sanga FC,3149,D,"['DL', 'ML']",70.0,177,1993-12-27T00:00:00+00:00,Left,Japan,,310000.0,EUR
+2049783,Travis Takahashi,Cerezo Osaka,3141,D,['DC'],86.0,187,2001-09-17T00:00:00+00:00,Right,Japan,,310000.0,EUR
+1184068,Kazuma Okamoto,Mito Hollyhock,21901,D,['DR'],70.0,175,2003-09-19T00:00:00+00:00,Right,Japan,,595000.0,EUR
+1897197,Kento Hamasaki,Vissel Kobe,3146,M,,,164,2007-06-16T00:00:00+00:00,Left,Japan,,390000.0,EUR
+2626317,Hyoei Kawabata,Vissel Kobe,3146,F,,73.0,178,2008-04-04T00:00:00+00:00,Right,Japan,,,
+313918,Riki Harakawa,Kashiwa Reysol,3140,M,"['MC', 'DM']",72.0,175,1993-08-18T00:00:00+00:00,Right,Japan,2028-06-30,310000.0,EUR
+794504,Gakuji Ota,Kyoto Sanga FC,3149,G,['GK'],82.0,190,1990-12-26T00:00:00+00:00,Right,Japan,,54000.0,EUR
+800970,Takumi Nagaishi,Avispa Fukuoka,3143,G,['GK'],86.0,191,1996-02-16T00:00:00+00:00,Right,Japan,,260000.0,EUR
+1029590,Jelani Reshaun Sumiyoshi,Shimizu S-Pulse,3133,D,"['DC', 'DR']",75.0,181,1997-10-05T00:00:00+00:00,Right,Japan,,580000.0,EUR
+817987,Ibrahim Drešević,Machida Zelvia,44409,D,"['DC', 'DR']",81.0,186,1997-01-24T00:00:00+00:00,Right,Kosovo,,1300000.0,EUR
+235686,Kim Seung-gyu,FC Tokyo,3147,G,['GK'],80.0,187,1990-09-30T00:00:00+00:00,Right,South Korea,2027-06-30,530000.0,EUR
+1019329,Takumi Tsukui,JEF United Chiba,3144,M,"['ML', 'RW']",72.0,176,2002-04-30T00:00:00+00:00,Right,Japan,,840000.0,EUR
+895700,Lucão,Fagiano Okayama,34034,F,['ST'],91.0,191,1995-09-22T00:00:00+00:00,Right,Brazil,,315000.0,EUR
+1106509,Thiago Andrade,Cerezo Osaka,3141,M,['LW'],68.0,179,2000-10-31T00:00:00+00:00,Right,Brazil,2027-06-30,1200000.0,EUR
+1172488,Kaito Yasui,Urawa Red Diamonds,3145,M,"['MC', 'DM']",69.0,174,2000-02-09T00:00:00+00:00,Right,Japan,,840000.0,EUR
+1211026,Kanta Doi,V-Varen Nagasaki,38154,D,"['DC', 'DR']",73.0,184,2004-11-10T00:00:00+00:00,Right,Japan,2027-06-30,580000.0,EUR
+815630,Mateus,Nagoya Grampus,3136,F,"['AM', 'ST', 'RW']",69.0,167,1994-09-11T00:00:00+00:00,Left,Brazil,2027-06-30,1000000.0,EUR
+1124868,Naohiro Sugiyama,JEF United Chiba,3144,M,['RW'],,175,1998-09-07T00:00:00+00:00,Left,Japan,2027-06-30,330000.0,EUR
+2216184,Hayato Hirao,Tokyo Verdy,3139,F,['AM'],,176,2005-01-06T00:00:00+00:00,Right,Japan,,70000.0,EUR
+109626,Kensuke Nagai,Nagoya Grampus,3136,F,"['ST', 'AM']",67.0,177,1989-03-05T00:00:00+00:00,Right,Japan,,92000.0,EUR
+1130591,Seung-wook Park,Shimizu S-Pulse,3133,D,"['DC', 'DR']",,184,1997-05-07T00:00:00+00:00,Right,South Korea,,820000.0,EUR
+604928,Deniz Hümmet,Gamba Osaka,3138,F,['ST'],80.0,187,1996-09-13T00:00:00+00:00,Right,Türkiye,2027-06-30,2400000.0,EUR
+840420,Yuya Yamagishi,Nagoya Grampus,3136,F,['ST'],80.0,183,1993-08-28T00:00:00+00:00,Right,Japan,2027-01-31,535000.0,EUR
+1485923,Masato Shigemi,Avispa Fukuoka,3143,F,"['MC', 'DM', 'AM']",64.0,171,2001-09-20T00:00:00+00:00,Right,Japan,,480000.0,EUR
+1069410,Léo Gaúcho,Fagiano Okayama,34034,F,['ST'],,188,2001-08-03T00:00:00+00:00,Right,Brazil,,320000.0,EUR
+387390,Tomoya Koyamatsu,Nagoya Grampus,3136,M,"['ML', 'ST']",62.0,171,1995-04-24T00:00:00+00:00,Right,Japan,,625000.0,EUR
+1002548,Koshiro Sumi,Gamba Osaka,3138,M,['AM'],,165,2002-08-13T00:00:00+00:00,Right,Japan,,580000.0,EUR
+1650471,Soma Kanda,Tokyo Verdy,3139,F,['ST'],,178,2005-12-29T00:00:00+00:00,Right,Japan,2027-06-30,165000.0,EUR
+879520,Naoki Tsubaki,JEF United Chiba,3144,M,"['ML', 'LW']",65.0,172,2000-06-23T00:00:00+00:00,Right,Japan,,470000.0,EUR
+1089111,Erison,JEF United Chiba,3144,F,['ST'],,180,1999-04-13T00:00:00+00:00,Left,Brazil,,1900000.0,EUR
+881124,Ryosuke Kojima,Kashiwa Reysol,3140,G,['GK'],73.0,183,1997-01-30T00:00:00+00:00,Left,Japan,,1200000.0,EUR
+894463,Leonardo Rocha,JEF United Chiba,3144,F,['ST'],72.0,198,1997-05-23T00:00:00+00:00,Right,Portugal,,750000.0,EUR
+840030,Capixaba,Shimizu S-Pulse,3133,M,"['LW', 'ML']",,170,1997-01-09T00:00:00+00:00,Left,Brazil,2027-06-30,545000.0,EUR
+387260,Jun Amano,Yokohama F. Marinos,3137,M,"['AM', 'MC']",64.0,175,1991-07-19T00:00:00+00:00,Left,Japan,,415000.0,EUR
+945291,Shintaro Nago,Avispa Fukuoka,3143,F,['AM'],,168,1996-04-18T00:00:00+00:00,Right,Japan,,840000.0,EUR
+1184093,Ren Kato,Kyoto Sanga FC,3149,D,"['DL', 'DR']",72.0,175,1999-12-28T00:00:00+00:00,Right,Japan,,520000.0,EUR
+812667,Shindo Ryosuke,V-Varen Nagasaki,38154,D,"['DC', 'DR']",70.0,181,1996-06-07T00:00:00+00:00,Right,Japan,2028-06-30,455000.0,EUR
+243413,Élber,Kashima Antlers,3134,M,"['LW', 'ML']",65.0,170,1992-05-27T00:00:00+00:00,Right,Brazil,,580000.0,EUR
+1126568,Takumi Kato,Kyoto Sanga FC,3149,F,['ST'],82.0,180,1999-07-16T00:00:00+00:00,Right,Japan,,165000.0,EUR
+1862495,Hayata Yamamoto,Mito Hollyhock,21901,M,['ML'],,180,2003-02-12T00:00:00+00:00,Right,Japan,2027-06-30,515000.0,EUR
+1501076,Shungo Sugiura,Nagoya Grampus,3136,M,,,173,2006-05-14T00:00:00+00:00,Right,Japan,2028-06-30,195000.0,EUR
+1105062,Weverton,Kyoto Sanga FC,3149,D,['DC'],,183,2003-02-18T00:00:00+00:00,Right,Brazil,2027-06-30,320000.0,EUR
+2691669,Rin Homma,Kawasaki Frontale,5127,F,,74.0,182,2004-08-03T00:00:00+00:00,Right,Japan,,,
+790969,Koya Yuruki,Kashiwa Reysol,3140,M,['LW'],70.0,182,1995-07-03T00:00:00+00:00,Right,Japan,,620000.0,EUR
+1501045,Joi Yamamoto,Tokyo Verdy,3139,M,['MC'],,185,2006-05-18T00:00:00+00:00,Right,Japan,2027-06-30,110000.0,EUR
+218786,Yuichi Maruyama,Kawasaki Frontale,5127,D,"['DC', 'DL']",74.0,183,1989-06-16T00:00:00+00:00,Left,Japan,,110000.0,EUR
+1144140,Kanta Chiba,Shimizu S-Pulse,3133,F,['ST'],74.0,178,2003-06-17T00:00:00+00:00,Right,Japan,,325000.0,EUR
+832976,Takuma Ominami,V-Varen Nagasaki,38154,D,['DC'],72.0,184,1997-12-13T00:00:00+00:00,Right,Japan,,970000.0,EUR
+1028327,Yusei Egawa,V-Varen Nagasaki,38154,D,"['DC', 'DL']",,175,2000-10-24T00:00:00+00:00,Left,Japan,2027-06-30,340000.0,EUR
+48437,Takashi Usami,Gamba Osaka,3138,M,"['ST', 'AM']",72.0,178,1992-05-06T00:00:00+00:00,Right,Japan,2027-06-30,415000.0,EUR
+831960,Keiya Shiihashi,Avispa Fukuoka,3143,M,"['MC', 'DM']",69.0,177,1997-06-20T00:00:00+00:00,Right,Japan,,560000.0,EUR
+2449915,Takumi Matsumura,JEF United Chiba,3144,F,,73.0,178,2004-01-03T00:00:00+00:00,Right,Japan,2028-06-30,82000.0,EUR
+1501036,Gaku Nawata,Gamba Osaka,3138,M,['AM'],,171,2006-07-29T00:00:00+00:00,Right,Japan,2027-06-30,450000.0,EUR
+2058170,Abdel Hanan Sani Brown,Avispa Fukuoka,3143,F,,80.0,184,2006-07-03T00:00:00+00:00,Right,Japan,2028-06-30,105000.0,EUR
+2446146,Reijin Kou,V-Varen Nagasaki,38154,F,,73.0,177,2003-08-26T00:00:00+00:00,Right,Japan,2028-06-30,,
+1064289,Ryo Nemoto,Mito Hollyhock,21901,F,['ST'],,183,2000-02-03T00:00:00+00:00,Right,Japan,2028-06-30,145000.0,EUR
+886064,Lennart Moser,Fagiano Okayama,34034,G,['GK'],,196,1999-12-06T00:00:00+00:00,Left,Germany,,570000.0,EUR
+790976,Yuma Suzuki,Kashima Antlers,3134,F,['ST'],70.0,181,1996-04-26T00:00:00+00:00,Right,Japan,2027-01-31,2700000.0,EUR
+819114,Pablo Sabbag,Cerezo Osaka,3141,F,['ST'],82.0,188,1997-06-11T00:00:00+00:00,Left,Syria,,725000.0,EUR
+1126566,Reon Yamahara,Kawasaki Frontale,5127,D,"['DL', 'DR']",,164,1999-06-08T00:00:00+00:00,Right,Japan,,930000.0,EUR
+886653,Ryo Germain,Shimizu S-Pulse,3133,F,"['ST', 'AM']",75.0,182,1995-04-19T00:00:00+00:00,Left,Japan,,680000.0,EUR
+790973,Ryoya Ogawa,Kashima Antlers,3134,D,"['DL', 'ML']",72.0,182,1996-11-24T00:00:00+00:00,Left,Japan,2028-06-30,850000.0,EUR
+870411,Daichi Tagami,Fagiano Okayama,34034,D,['DC'],79.0,179,1993-06-16T00:00:00+00:00,Right,Japan,,195000.0,EUR
+1462415,Patryck Ferreira,Mito Hollyhock,21901,F,['ST'],,185,1998-09-05T00:00:00+00:00,Right,Brazil,2027-06-30,79000.0,EUR
+1482266,Ichika Maeda,Avispa Fukuoka,3143,F,,,175,2006-06-16T00:00:00+00:00,Right,Japan,2028-06-30,54000.0,EUR
+877897,Marco Túlio,Kyoto Sanga FC,3149,F,"['RW', 'ST']",,177,1998-03-13T00:00:00+00:00,Right,Brazil,,760000.0,EUR
+313896,Haruya Ide,Vissel Kobe,3146,M,['MC'],66.0,171,1994-03-25T00:00:00+00:00,Right,Japan,,240000.0,EUR
+1597187,Homare Tokuda,Kashima Antlers,3134,F,,83.0,186,2007-02-18T00:00:00+00:00,Right,Japan,2028-06-30,165000.0,EUR
+1903399,Rento Noguchi,Sanfrecce Hiroshima,3135,M,['MC'],,171,2008-04-20T00:00:00+00:00,Right,Japan,,,
+989143,Zain Issaka,JEF United Chiba,3144,M,"['RW', 'MR']",,174,1997-05-29T00:00:00+00:00,Right,Japan,2028-06-30,580000.0,EUR
+2076137,Tsuna Kominato,FC Tokyo,3147,F,,76.0,178,2004-11-18T00:00:00+00:00,Right,Japan,,,
+959006,Caetano,Vissel Kobe,3146,D,"['DC', 'DL']",,182,1999-06-24T00:00:00+00:00,Left,Brazil,2027-06-30,1000000.0,EUR
+319309,Samuel Gustafson,Urawa Red Diamonds,3145,M,"['MC', 'DM']",78.0,187,1995-01-11T00:00:00+00:00,Right,Sweden,,1400000.0,EUR
+2049774,Tada Keisuke,Mito Hollyhock,21901,F,['ST'],72.0,175,2002-09-27T00:00:00+00:00,Right,Japan,2027-06-30,245000.0,EUR
+831872,Hiromu Mitsumaru,Kashiwa Reysol,3140,D,"['DL', 'DC', 'ML']",69.0,172,1993-07-22T00:00:00+00:00,Left,Japan,,240000.0,EUR
+2084739,Makoto Himeno,JEF United Chiba,3144,M,['ML'],,171,2008-08-12T00:00:00+00:00,Both,Japan,,320000.0,EUR
+1117348,Koshi Osaki,Mito Hollyhock,21901,M,"['MC', 'DL']",,176,1998-06-30T00:00:00+00:00,Left,Japan,,690000.0,EUR
+924226,Danilo Boza,Urawa Red Diamonds,3145,D,['DC'],,184,1998-05-06T00:00:00+00:00,Right,Brazil,2027-06-30,1300000.0,EUR
+873044,Takahiro Iida,JEF United Chiba,3144,D,"['DR', 'MR']",73.0,179,1994-08-31T00:00:00+00:00,Right,Japan,,290000.0,EUR
+218766,Takayuki Mae,JEF United Chiba,3144,M,"['DR', 'DL']",62.0,172,1993-09-16T00:00:00+00:00,Right,Japan,2027-06-30,230000.0,EUR
+1462158,Kotaro Hayashi,Urawa Red Diamonds,3145,M,"['ML', 'DL']",,170,2000-11-16T00:00:00+00:00,Right,Japan,,755000.0,EUR
+2229486,Kyosuke Mochiyama,Kawasaki Frontale,5127,F,['ST'],,180,2003-08-18T00:00:00+00:00,Right,Japan,,145000.0,EUR
+832398,Hiroto Goya,JEF United Chiba,3144,F,['ST'],68.0,177,1994-01-02T00:00:00+00:00,Right,Japan,,250000.0,EUR
+2076145,Naru Nakatsumi,Gamba Osaka,3138,F,,,172,2007-12-19T00:00:00+00:00,Left,Japan,,,
+1125639,Goki Yamada,Tokyo Verdy,3139,F,['ST'],,170,2000-09-19T00:00:00+00:00,Right,Japan,2027-06-30,145000.0,EUR
+155823,Masaya Matsumoto,Fagiano Okayama,34034,M,"['RW', 'MR']",69.0,175,1995-01-25T00:00:00+00:00,Right,Japan,2028-06-30,465000.0,EUR
+925793,Yuya Fukuda,Tokyo Verdy,3139,F,"['AM', 'ML']",67.0,176,1999-04-04T00:00:00+00:00,Right,Japan,2027-06-30,380000.0,EUR
+352614,José Aurelio Suárez,JEF United Chiba,3144,G,['GK'],85.0,187,1995-12-18T00:00:00+00:00,Right,Spain,,475000.0,EUR
+794770,Masaya Okugawa,Kyoto Sanga FC,3149,M,"['RW', 'MC', 'LW']",67.0,176,1996-04-14T00:00:00+00:00,Both,Japan,2027-06-30,775000.0,EUR
+2686777,Ikedo Shu,Fagiano Okayama,34034,D,,,185,2005-12-26T00:00:00+00:00,,Japan,,,
+858886,Kyosuke Tagawa,Kashima Antlers,3134,F,['ST'],70.0,181,1999-02-11T00:00:00+00:00,Left,Japan,2027-06-30,550000.0,EUR
+791675,Kengo Nagai,Kashiwa Reysol,3140,G,['GK'],80.0,184,1994-11-06T00:00:00+00:00,Right,Japan,2027-06-30,105000.0,EUR
+1093933,Rio Omori,FC Tokyo,3147,D,"['DC', 'DR']",,183,2002-07-21T00:00:00+00:00,Right,Japan,,430000.0,EUR
+1385292,Yuki Yoshihara,Gamba Osaka,3138,M,,67.0,178,2004-07-19T00:00:00+00:00,Right,Japan,2028-06-30,49000.0,EUR
+981074,Mao Hosoya,Kashiwa Reysol,3140,F,['ST'],,177,2001-09-07T00:00:00+00:00,Right,Japan,2030-06-30,1600000.0,EUR
+24133,Koki Yonekura,JEF United Chiba,3144,D,['DR'],68.0,176,1988-05-17T00:00:00+00:00,Right,Japan,2027-06-30,53000.0,EUR
+926457,Koji Toriumi,JEF United Chiba,3144,D,['DC'],71.0,181,1995-05-09T00:00:00+00:00,Right,Japan,2027-06-30,545000.0,EUR
+309556,Ibuki Fujita,Fagiano Okayama,34034,M,"['DM', 'MC']",68.0,170,1991-01-30T00:00:00+00:00,Right,Japan,,120000.0,EUR
+1047033,Masahiro Sekiguchi,V-Varen Nagasaki,38154,M,"['DR', 'MR']",66.0,172,1998-04-21T00:00:00+00:00,Right,Japan,,490000.0,EUR
+831853,Yuzawa Masato,Avispa Fukuoka,3143,M,"['MR', 'DR']",74.0,179,1993-10-10T00:00:00+00:00,Right,Japan,,260000.0,EUR
+218768,Nara Tatsuki,Avispa Fukuoka,3143,D,['DC'],77.0,180,1993-09-19T00:00:00+00:00,Right,Japan,2027-06-30,340000.0,EUR
+1650450,Jin Okumura,Mito Hollyhock,21901,M,['MC'],62.0,168,2001-04-03T00:00:00+00:00,Right,Japan,,385000.0,EUR
+1874012,Ginjiro Ikegaya,Gamba Osaka,3138,D,['DR'],79.0,184,2004-06-19T00:00:00+00:00,Right,Japan,2029-06-30,120000.0,EUR
+1210183,Kotaro Uchino,Mito Hollyhock,21901,F,['ST'],79.0,186,2004-06-19T00:00:00+00:00,Right,Japan,2027-06-30,120000.0,EUR
+1184043,Yusei Toshida,Gamba Osaka,3138,F,['ST'],76.0,182,1999-07-23T00:00:00+00:00,Right,Japan,,285000.0,EUR
+888930,Dani Gómez,FC Tokyo,3147,F,['ST'],70.0,177,1998-07-30T00:00:00+00:00,Right,Spain,,775000.0,EUR
+905348,Kohei Okuno,Avispa Fukuoka,3143,M,"['DM', 'MC']",64.0,176,2000-04-03T00:00:00+00:00,Right,Japan,2029-06-30,440000.0,EUR
+387378,Hokuto Shimoda,Machida Zelvia,44409,M,"['MC', 'DM']",64.0,171,1991-11-07T00:00:00+00:00,Left,Japan,,180000.0,EUR
+791401,Yoichi Naganuma,Urawa Red Diamonds,3145,D,"['DL', 'RW']",66.0,177,1997-04-14T00:00:00+00:00,Right,Japan,,450000.0,EUR
+1857778,Kim Hyun-Woo,Tokyo Verdy,3139,F,['ST'],,178,2001-10-10T00:00:00+00:00,Right,South Korea,,245000.0,EUR
+1112643,Kota Kudo,Urawa Red Diamonds,3145,D,"['DC', 'DL']",,180,2003-08-13T00:00:00+00:00,Left,Japan,,550000.0,EUR
+797335,Henrique Trevisan,Kyoto Sanga FC,3149,D,['DC'],,185,1997-01-20T00:00:00+00:00,Left,Brazil,,430000.0,EUR
+945325,Kamijima Takumi,Avispa Fukuoka,3143,D,"['DC', 'DR']",80.0,185,1997-02-05T00:00:00+00:00,Right,Japan,2027-06-30,530000.0,EUR
+1028300,Koki Fukui,Urawa Red Diamonds,3145,G,['GK'],,184,1995-11-04T00:00:00+00:00,Left,Japan,,195000.0,EUR
+2441543,Futa Tokumura,Machida Zelvia,44409,M,['ML'],63.0,168,2007-11-26T00:00:00+00:00,Right,Japan,2029-06-30,285000.0,EUR
+1501817,Gakuto Kawamura,Tokyo Verdy,3139,F,,65.0,177,2006-04-06T00:00:00+00:00,Left,Japan,2028-06-30,,
+2194759,Shuto Yamaichi,Kawasaki Frontale,5127,M,,68.0,170,2004-01-20T00:00:00+00:00,Left,Japan,2031-01-31,,
+34766,Daisuke Suzuki,JEF United Chiba,3144,D,['DC'],78.0,181,1990-01-29T00:00:00+00:00,Right,Japan,,79000.0,EUR
+2636541,Sota Yamamoto,Kyoto Sanga FC,3149,D,,75.0,176,2004-08-23T00:00:00+00:00,Right,Japan,,,
